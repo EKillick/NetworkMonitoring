@@ -1,5 +1,5 @@
 #!/bin/bash
-#A script to ping servers and save the results
+#A script to ping servers 100 times and save the results
 #A folder is created for each host and the script iterates through these
 #The folder names must be the same as the addresses being pinged
 for d in * ; do
