@@ -4,7 +4,7 @@
 #The folder names must be the same as the addresses being pinged
 for d in * ; do
     if [[ -d $d ]]; then                            #Only runs on folder names
-        echo "$d"
+        echo "$d"                                   #Prints out the name of the current host
         date >> $d/full.log                         #Appends the current datetime to the logfiles
         date >> $d/summary.log
         ping -c 100 $d >> $d/full.log               #Appends ping results to one file
