@@ -22,3 +22,27 @@ Wed  5 Apr 00:08:23 BST 2017
 rtt min/avg/max/mdev = 130.396/133.620/135.025/0.884 ms
 
 
+Wed  5 Apr 06:08:23 BST 2017
+--- masbatecity.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99128ms
+rtt min/avg/max/mdev = 130.901/131.235/131.838/0.528 ms
+
+
+Wed  5 Apr 12:08:26 BST 2017
+--- masbatecity.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99080ms
+rtt min/avg/max/mdev = 130.381/131.686/203.591/7.546 ms
+
+
+Wed  5 Apr 18:08:25 BST 2017
+--- masbatecity.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99258ms
+rtt min/avg/max/mdev = 132.698/133.542/134.646/0.755 ms
+
+
+Thu  6 Apr 00:08:24 BST 2017
+--- masbatecity.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99060ms
+rtt min/avg/max/mdev = 130.393/130.944/131.587/0.518 ms
+
+
