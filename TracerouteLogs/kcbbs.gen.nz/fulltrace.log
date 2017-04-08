@@ -1,0 +1,24 @@
+Sat  8 Apr 15:00:17 BST 2017
+traceroute to kcbbs.gen.nz (202.14.102.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.998 ms  1.396 ms  1.813 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.367 ms  0.355 ms  0.645 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.960 ms  0.992 ms  0.929 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.257 ms  1.102 ms  1.358 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.559 ms  7.998 ms  7.643 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.694 ms  7.669 ms  7.656 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.695 ms  6.867 ms  6.881 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.901 ms  6.852 ms  6.859 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  6.983 ms  6.923 ms  6.989 ms
+10  ldn-bb3-link.telia.net (62.115.121.60)  6.970 ms ldn-bb3-link.telia.net (62.115.134.134)  7.047 ms ldn-bb2-link.telia.net (62.115.134.138)  7.008 ms
+11  * nyk-bb4-link.telia.net (213.155.135.67)  76.404 ms *
+12  chi-b21-link.telia.net (62.115.117.165)  99.299 ms chi-b21-link.telia.net (213.155.136.19)  99.481 ms chi-b21-link.telia.net (62.115.116.35)  99.119 ms
+13  sea-b1-link.telia.net (62.115.116.140)  142.043 ms sea-b1-link.telia.net (62.115.117.48)  141.337 ms  141.723 ms
+14  vodafone-ic-317477-sea-b1.c.telia.net (62.115.147.97)  272.263 ms  272.932 ms  272.016 ms
+15  gi2-20.akl-grafton-bdr1.ihug.net (203.109.130.41)  271.997 ms  272.503 ms  272.385 ms
+16  fa0-3.akl-sky-car1.ihug.net (203.109.130.42)  283.232 ms  283.173 ms  271.714 ms
+17  203-97-12-26.dsl.clear.net.nz (203.97.12.26)  285.008 ms  273.476 ms  273.920 ms
+18  202.27.217.33 (202.27.217.33)  273.491 ms  284.834 ms  272.935 ms
+19  202.27.202.194 (202.27.202.194)  286.197 ms  274.490 ms  286.628 ms
+20  kcbbs.kci.net.nz (202.14.102.1)  286.456 ms !X  274.669 ms !X  286.245 ms !X
+
+

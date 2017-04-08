@@ -1,0 +1,16 @@
+Sat  8 Apr 15:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.074 ms  1.485 ms  1.871 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.447 ms  0.605 ms  0.593 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.085 ms  1.078 ms  1.055 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.419 ms  1.292 ms  1.146 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.724 ms  7.715 ms  7.703 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.682 ms  7.847 ms  7.828 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.971 ms  6.916 ms  6.836 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.924 ms  6.939 ms  6.929 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  36.660 ms  33.678 ms  36.634 ms
+10  85.95.27.162 (85.95.27.162)  198.587 ms  198.568 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  207.589 ms
+11  80.81.65.122 (80.81.65.122)  191.387 ms  191.370 ms  198.657 ms
+12  sgp-2.valve.net (103.10.124.1)  199.226 ms  199.215 ms  191.853 ms
+
+
