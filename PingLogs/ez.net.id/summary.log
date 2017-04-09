@@ -112,3 +112,15 @@ Sat  8 Apr 18:03:21 BST 2017
 rtt min/avg/max/mdev = 300.779/312.599/325.546/5.300 ms
 
 
+Sun  9 Apr 00:03:21 BST 2017
+--- ez.net.id ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99307ms
+rtt min/avg/max/mdev = 0.000/282.021/287.980/28.367 ms
+
+
+Sun  9 Apr 06:03:22 BST 2017
+--- ez.net.id ping statistics ---
+100 packets transmitted, 99 received, 1% packet loss, time 99268ms
+rtt min/avg/max/mdev = 294.153/305.526/326.213/5.635 ms
+
+

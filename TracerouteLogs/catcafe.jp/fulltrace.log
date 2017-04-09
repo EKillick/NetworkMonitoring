@@ -24,3 +24,159 @@ traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
 22  v133-130-78-149.myvps.jp (133.130.78.149)  235.165 ms !X  241.614 ms !X  248.901 ms !X
 
 
+Sat  8 Apr 20:00:03 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.366 ms  1.783 ms  2.208 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.341 ms  0.459 ms  0.444 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.065 ms  1.048 ms  1.279 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.222 ms  1.560 ms  1.428 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.181 ms  8.181 ms  8.227 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.310 ms  7.979 ms  7.963 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.117 ms  17.226 ms  6.966 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.093 ms  7.111 ms  7.120 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  147.240 ms  147.066 ms  147.209 ms
+12  sjeGCS002.int-gw.kddi.ne.jp (111.87.3.221)  147.194 ms  147.110 ms sjeGCS001.int-gw.kddi.ne.jp (111.87.3.153)  147.170 ms
+13  pajbb001.int-gw.kddi.ne.jp (59.128.3.186)  148.196 ms pajbb002.int-gw.kddi.ne.jp (59.128.3.202)  147.981 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.206)  148.043 ms
+14  otejbb206.int-gw.kddi.ne.jp (203.181.100.177)  270.008 ms otejbb206.int-gw.kddi.ne.jp (106.187.8.17)  280.506 ms otejbb205.int-gw.kddi.ne.jp (106.187.8.13)  274.801 ms
+15  27.80.241.197 (27.80.241.197)  280.590 ms 27.85.134.169 (27.85.134.169)  254.777 ms 27.85.134.141 (27.85.134.141)  279.722 ms
+16  27.85.224.190 (27.85.224.190)  269.599 ms  261.786 ms  261.769 ms
+17  124.211.10.66 (124.211.10.66)  274.200 ms  251.376 ms  250.736 ms
+18  ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  258.058 ms  266.275 ms ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  251.536 ms
+19  210.146.255.18 (210.146.255.18)  240.776 ms  256.678 ms  257.189 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  242.525 ms  257.868 ms  257.409 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  256.668 ms !X  256.208 ms !X  256.272 ms !X
+
+
+Sat  8 Apr 21:00:03 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.988 ms  1.375 ms  1.771 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.315 ms  0.296 ms  0.591 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.973 ms  1.013 ms  1.033 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.374 ms  1.081 ms  1.213 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.966 ms  8.430 ms  8.390 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.938 ms  8.238 ms  8.169 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.260 ms  7.192 ms  7.227 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.236 ms  7.259 ms  7.324 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  149.120 ms  149.045 ms  148.285 ms
+12  sjeGCS002.int-gw.kddi.ne.jp (111.87.3.157)  147.984 ms sjeGCS002.int-gw.kddi.ne.jp (111.87.3.141)  147.965 ms sjeGCS002.int-gw.kddi.ne.jp (111.87.3.149)  147.952 ms
+13  pajbb001.int-gw.kddi.ne.jp (59.128.3.210)  148.938 ms  148.956 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.194)  149.194 ms
+14  otejbb205.int-gw.kddi.ne.jp (106.187.8.13)  298.900 ms  270.673 ms otejbb206.int-gw.kddi.ne.jp (106.187.8.17)  279.571 ms
+15  27.85.130.73 (27.85.130.73)  266.406 ms 27.85.134.141 (27.85.134.141)  266.176 ms 27.80.241.217 (27.80.241.217)  274.019 ms
+16  27.85.224.194 (27.85.224.194)  263.681 ms  263.895 ms 27.85.224.190 (27.85.224.190)  271.699 ms
+17  124.211.10.66 (124.211.10.66)  268.822 ms  268.131 ms  253.423 ms
+18  ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  252.374 ms ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  260.990 ms ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  269.405 ms
+19  210.146.255.18 (210.146.255.18)  259.575 ms  244.894 ms  244.985 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  248.370 ms  256.185 ms  256.005 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  259.305 ms !X  251.116 ms !X  242.633 ms !X
+
+
+Sun  9 Apr 02:00:02 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.308 ms  1.692 ms  2.481 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.616 ms  0.918 ms  0.904 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.293 ms  1.283 ms  1.263 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.600 ms  1.507 ms  1.737 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.064 ms  8.046 ms  8.024 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.000 ms  7.918 ms  7.979 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.986 ms  6.911 ms  6.891 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  13.164 ms  13.114 ms  13.099 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  145.988 ms  145.968 ms  145.955 ms
+12  sjeGCS002.int-gw.kddi.ne.jp (111.87.3.141)  144.946 ms sjeGCS001.int-gw.kddi.ne.jp (111.87.3.217)  144.931 ms sjeGCS002.int-gw.kddi.ne.jp (111.87.3.157)  144.886 ms
+13  pajbb001.int-gw.kddi.ne.jp (59.128.3.182)  145.036 ms pajbb002.int-gw.kddi.ne.jp (59.128.3.202)  145.592 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.194)  145.602 ms
+14  otejbb206.int-gw.kddi.ne.jp (106.187.8.17)  307.908 ms otejbb205.int-gw.kddi.ne.jp (203.181.100.65)  243.149 ms otejbb205.int-gw.kddi.ne.jp (106.187.8.13)  264.858 ms
+15  27.85.134.149 (27.85.134.149)  259.726 ms 27.80.241.197 (27.80.241.197)  274.354 ms 27.85.134.177 (27.85.134.177)  243.206 ms
+16  27.85.224.190 (27.85.224.190)  261.686 ms 27.85.224.194 (27.85.224.194)  257.011 ms 27.85.224.190 (27.85.224.190)  264.364 ms
+17  124.211.10.66 (124.211.10.66)  261.568 ms  260.870 ms  244.894 ms
+18  ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  253.672 ms ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  247.183 ms ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  253.893 ms
+19  210.146.255.18 (210.146.255.18)  244.770 ms  252.439 ms  252.351 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  252.611 ms  253.103 ms  241.068 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  236.037 ms !X  252.055 ms !X  237.597 ms !X
+
+
+Sun  9 Apr 03:00:02 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.966 ms  1.378 ms  1.783 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.642 ms  0.670 ms  0.654 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.133 ms  1.109 ms  1.089 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.753 ms  1.458 ms  1.939 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.128 ms  8.102 ms  8.084 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.058 ms  8.039 ms  8.018 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.031 ms  7.012 ms  6.967 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.951 ms  6.938 ms  7.122 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  145.341 ms  145.559 ms  145.666 ms
+12  sjeGCS002.int-gw.kddi.ne.jp (111.87.3.157)  145.334 ms sjeGCS002.int-gw.kddi.ne.jp (111.87.3.149)  145.246 ms sjeGCS001.int-gw.kddi.ne.jp (111.87.3.145)  145.415 ms
+13  pajbb001.int-gw.kddi.ne.jp (59.128.3.206)  146.289 ms pajbb002.int-gw.kddi.ne.jp (59.128.3.198)  146.100 ms pajbb002.int-gw.kddi.ne.jp (59.128.3.202)  146.290 ms
+14  otejbb205.int-gw.kddi.ne.jp (106.187.8.13)  265.708 ms  265.667 ms  265.534 ms
+15  27.85.134.133 (27.85.134.133)  260.258 ms 27.85.134.177 (27.85.134.177)  245.448 ms 27.85.130.77 (27.85.130.77)  259.331 ms
+16  27.85.224.190 (27.85.224.190)  258.922 ms  250.675 ms  258.995 ms
+17  124.211.10.66 (124.211.10.66)  263.172 ms  263.250 ms  248.819 ms
+18  ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  248.059 ms  264.528 ms  264.590 ms
+19  210.146.255.18 (210.146.255.18)  240.845 ms  247.248 ms  247.054 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  256.087 ms  271.785 ms  270.757 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  255.065 ms !X  246.758 ms !X  246.919 ms !X
+
+
+Sun  9 Apr 08:00:02 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.322 ms  1.349 ms  1.673 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.449 ms  0.448 ms  0.905 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.287 ms  1.241 ms  1.198 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.340 ms  1.222 ms  1.270 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.878 ms  7.671 ms  7.659 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.829 ms  7.823 ms  7.850 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.958 ms  6.986 ms  6.892 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.957 ms  6.968 ms  6.929 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  142.660 ms  142.630 ms  142.438 ms
+12  sjeGCS001.int-gw.kddi.ne.jp (111.87.3.137)  142.569 ms sjeGCS001.int-gw.kddi.ne.jp (111.87.3.153)  142.962 ms  142.842 ms
+13  pajbb001.int-gw.kddi.ne.jp (59.128.3.206)  143.365 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.186)  143.451 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.210)  143.305 ms
+14  otejbb205.int-gw.kddi.ne.jp (203.181.100.173)  252.175 ms otejbb205.int-gw.kddi.ne.jp (106.187.8.13)  261.038 ms  261.011 ms
+15  27.85.134.113 (27.85.134.113)  262.657 ms 27.85.134.105 (27.85.134.105)  255.819 ms 27.80.241.209 (27.80.241.209)  271.720 ms
+16  27.85.224.194 (27.85.224.194)  246.139 ms  239.611 ms 27.85.224.190 (27.85.224.190)  261.407 ms
+17  124.211.10.66 (124.211.10.66)  258.792 ms  258.583 ms  258.121 ms
+18  ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  259.622 ms  258.733 ms  258.859 ms
+19  210.146.255.18 (210.146.255.18)  250.037 ms  235.758 ms  234.254 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  281.089 ms  280.139 ms  278.237 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  235.502 ms !X  249.870 ms !X  241.709 ms !X
+
+
+Sun  9 Apr 09:00:03 BST 2017
+traceroute to catcafe.jp (133.130.78.149), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.876 ms  1.240 ms  1.662 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.255 ms  0.275 ms  0.336 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.881 ms  0.869 ms  0.839 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.048 ms  1.277 ms  1.123 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.608 ms  7.559 ms  7.702 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.813 ms  7.767 ms  7.754 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.746 ms  9.373 ms  6.671 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.007 ms  6.943 ms  7.419 ms
+ 9  * * *
+10  * * *
+11  4.53.212.94 (4.53.212.94)  142.378 ms  142.842 ms  142.859 ms
+12  sjeGCS002.int-gw.kddi.ne.jp (111.87.3.141)  143.494 ms sjeGCS002.int-gw.kddi.ne.jp (111.87.3.149)  143.550 ms sjeGCS001.int-gw.kddi.ne.jp (111.87.3.153)  142.759 ms
+13  pajbb002.int-gw.kddi.ne.jp (59.128.3.198)  144.042 ms pajbb002.int-gw.kddi.ne.jp (59.128.3.202)  143.497 ms pajbb001.int-gw.kddi.ne.jp (59.128.3.182)  144.336 ms
+14  otejbb206.int-gw.kddi.ne.jp (203.181.100.209)  237.935 ms otejbb205.int-gw.kddi.ne.jp (203.181.100.65)  240.119 ms otejbb206.int-gw.kddi.ne.jp (106.187.8.17)  268.834 ms
+15  27.85.134.157 (27.85.134.157)  255.320 ms 27.80.241.225 (27.80.241.225)  258.389 ms 27.85.134.105 (27.85.134.105)  256.052 ms
+16  27.85.224.194 (27.85.224.194)  253.478 ms  253.447 ms  239.076 ms
+17  124.211.10.66 (124.211.10.66)  331.031 ms  258.396 ms  243.922 ms
+18  ae1.transit2.nihonbashi.vectant.ne.jp (163.139.128.122)  252.197 ms ae0.transit2.nihonbashi.vectant.ne.jp (163.139.128.118)  251.216 ms  258.539 ms
+19  210.146.255.18 (210.146.255.18)  242.173 ms  242.209 ms  242.223 ms
+20  * * *
+21  vkvm1-4ee-a01-1-e-1-49.interq.or.jp (157.7.40.114)  243.072 ms  261.795 ms  257.022 ms
+22  v133-130-78-149.myvps.jp (133.130.78.149)  249.049 ms !X  235.214 ms !X  241.716 ms !X
+
+
