@@ -125,3 +125,20 @@ rtt min/avg/max/mdev = 30.731/198.397/283.079/38.699 ms
 
 
 Sun  9 Apr 12:00:01 BST 2017
+--- 103.10.124.1 ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99122ms
+rtt min/avg/max/mdev = 198.410/202.167/222.043/2.709 ms
+
+
+Sun  9 Apr 18:00:03 BST 2017
+--- 103.10.124.1 ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99008ms
+rtt min/avg/max/mdev = 198.337/198.854/214.138/1.632 ms
+
+
+Mon 10 Apr 00:00:03 BST 2017
+--- 103.10.124.1 ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99179ms
+rtt min/avg/max/mdev = 198.371/205.266/242.691/5.463 ms
+
+
