@@ -430,3 +430,131 @@ traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
 12  sgp-2.valve.net (103.10.124.1)  206.983 ms  206.799 ms  206.769 ms
 
 
+Wed 12 Apr 02:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.089 ms  1.632 ms  1.778 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.401 ms  0.528 ms  3.030 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.132 ms  1.027 ms  1.078 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.463 ms  2.611 ms  2.544 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.789 ms  7.773 ms  7.762 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.721 ms  7.814 ms  7.790 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.855 ms  6.777 ms  6.815 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.797 ms  6.789 ms  6.768 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  6.932 ms  7.789 ms  6.998 ms
+10  85.95.27.162 (85.95.27.162)  200.594 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  207.151 ms 85.95.27.162 (85.95.27.162)  199.819 ms
+11  80.81.65.122 (80.81.65.122)  199.771 ms  192.538 ms  199.840 ms
+12  sgp-2.valve.net (103.10.124.1)  192.871 ms  192.784 ms  200.279 ms
+
+
+Wed 12 Apr 03:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.031 ms  1.441 ms  2.004 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.571 ms  0.572 ms  0.548 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.284 ms  1.281 ms  1.261 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.236 ms  1.750 ms  1.714 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.074 ms  8.041 ms  8.017 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.973 ms  7.745 ms  7.719 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.745 ms  6.834 ms  6.813 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.799 ms  6.775 ms  6.780 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.089 ms  7.042 ms  7.054 ms
+10  xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  209.040 ms 85.95.27.162 (85.95.27.162)  202.537 ms  202.482 ms
+11  80.81.65.122 (80.81.65.122)  201.481 ms  194.278 ms  194.128 ms
+12  sgp-2.valve.net (103.10.124.1)  194.496 ms  194.443 ms  194.662 ms
+
+
+Wed 12 Apr 08:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.331 ms  1.482 ms  1.844 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.317 ms  0.287 ms  1.021 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.170 ms  1.090 ms  1.074 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.953 ms  1.831 ms  1.336 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.776 ms  7.748 ms  7.702 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.666 ms  7.792 ms  7.782 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  9.666 ms  14.485 ms  14.469 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.927 ms  6.922 ms  6.899 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.511 ms  7.227 ms  7.435 ms
+10  xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  207.329 ms  207.312 ms 85.95.27.162 (85.95.27.162)  198.914 ms
+11  80.81.65.122 (80.81.65.122)  198.779 ms  198.804 ms  191.432 ms
+12  sgp-2.valve.net (103.10.124.1)  199.071 ms  199.089 ms  191.851 ms
+
+
+Wed 12 Apr 09:00:03 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.060 ms  1.404 ms  1.819 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.362 ms  0.733 ms  0.712 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.148 ms  0.936 ms  0.913 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.437 ms  1.526 ms  1.553 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.129 ms  8.110 ms  8.087 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.803 ms  7.708 ms  7.714 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.795 ms  6.767 ms  7.019 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.008 ms  6.985 ms  6.964 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.222 ms  7.152 ms  7.129 ms
+10  xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  208.002 ms 85.95.27.162 (85.95.27.162)  198.918 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  207.973 ms
+11  80.81.65.122 (80.81.65.122)  191.531 ms  198.601 ms  198.798 ms
+12  sgp-2.valve.net (103.10.124.1)  199.288 ms  192.015 ms  191.908 ms
+
+
+Wed 12 Apr 14:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.526 ms  1.408 ms  1.848 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.364 ms  0.339 ms  1.227 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.252 ms  1.221 ms  18.515 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.843 ms  4.056 ms  4.031 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.931 ms  7.960 ms  7.935 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.857 ms  8.116 ms  8.060 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.294 ms  7.255 ms  7.104 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.104 ms  7.206 ms  7.194 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.457 ms  7.431 ms  7.362 ms
+10  85.95.27.162 (85.95.27.162)  204.475 ms  204.336 ms  204.440 ms
+11  80.81.65.122 (80.81.65.122)  196.659 ms  204.004 ms  203.850 ms
+12  sgp-2.valve.net (103.10.124.1)  204.345 ms  196.724 ms  204.359 ms
+
+
+Wed 12 Apr 15:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.898 ms  1.295 ms  1.712 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.257 ms  0.245 ms  0.528 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.865 ms  0.925 ms  0.908 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.069 ms  1.306 ms  1.135 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.936 ms  7.916 ms  7.960 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.087 ms  7.987 ms  7.966 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.067 ms  7.101 ms  7.088 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.070 ms  7.085 ms  7.066 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  11.106 ms  11.090 ms  15.732 ms
+10  xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  213.960 ms  213.701 ms 85.95.27.162 (85.95.27.162)  206.095 ms
+11  80.81.65.122 (80.81.65.122)  206.291 ms  206.225 ms  199.106 ms
+12  sgp-2.valve.net (103.10.124.1)  199.723 ms  206.700 ms  206.746 ms
+
+
+Wed 12 Apr 20:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.026 ms  1.634 ms  1.838 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.335 ms  0.571 ms  0.549 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.197 ms  1.186 ms  1.166 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.438 ms  1.131 ms  1.397 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.815 ms  7.712 ms  7.708 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  20.908 ms  7.797 ms  7.810 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.115 ms  7.102 ms  7.076 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.057 ms  6.809 ms  7.040 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.030 ms  7.121 ms  7.077 ms
+10  85.95.27.162 (85.95.27.162)  199.347 ms  199.328 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  206.345 ms
+11  80.81.65.122 (80.81.65.122)  192.311 ms  192.105 ms  192.000 ms
+12  sgp-2.valve.net (103.10.124.1)  192.429 ms  200.054 ms  199.995 ms
+
+
+Wed 12 Apr 21:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.308 ms  1.631 ms  2.066 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.508 ms  0.490 ms  0.607 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.230 ms  1.125 ms  1.112 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.304 ms  1.142 ms  1.389 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.972 ms  7.961 ms  8.050 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.031 ms  8.096 ms  8.082 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.458 ms  26.276 ms  7.055 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.403 ms  7.390 ms  7.368 ms
+ 9  peer2.ldn1.flagtel.com (195.66.236.146)  7.352 ms  7.349 ms  7.331 ms
+10  85.95.27.162 (85.95.27.162)  200.937 ms  200.916 ms  200.864 ms
+11  80.81.65.122 (80.81.65.122)  201.010 ms  193.686 ms  193.755 ms
+12  sgp-2.valve.net (103.10.124.1)  201.485 ms  201.399 ms  194.112 ms
+
+

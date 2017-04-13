@@ -673,3 +673,203 @@ traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
 21  lp01.domains4less.net.nz (119.47.118.43)  272.377 ms  272.485 ms  272.301 ms
 
 
+Wed 12 Apr 02:00:59 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.667 ms  1.652 ms  1.804 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.360 ms  1.575 ms  1.558 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.549 ms  1.535 ms  1.513 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.506 ms  1.502 ms  1.483 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.674 ms  7.822 ms  7.793 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.682 ms  7.713 ms  8.114 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.068 ms  7.095 ms  7.083 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.407 ms  7.387 ms  8.014 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.012 ms  6.947 ms  6.932 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.987 ms  7.161 ms  7.135 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  84.053 ms  84.128 ms  83.973 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  84.386 ms  84.108 ms  84.155 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  164.848 ms  164.765 ms  164.824 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  140.549 ms  140.857 ms  146.975 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  138.110 ms  140.824 ms  140.206 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  262.898 ms  264.243 ms  262.447 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  264.598 ms  262.592 ms  262.758 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  262.694 ms  262.781 ms  262.792 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  266.557 ms  266.699 ms  264.988 ms
+20  119.47.127.137 (119.47.127.137)  269.491 ms  269.268 ms  266.832 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  263.579 ms  266.857 ms  266.682 ms
+
+
+Wed 12 Apr 03:00:52 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.296 ms  1.685 ms  2.106 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.345 ms  0.405 ms  0.391 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.974 ms  1.010 ms  0.936 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.434 ms  1.382 ms  2.244 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.718 ms  7.781 ms  7.718 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.768 ms  7.852 ms  7.849 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.911 ms  6.980 ms  6.962 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.954 ms  11.351 ms  10.375 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  10.389 ms  10.339 ms  9.850 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  10.097 ms  7.336 ms  7.318 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.744 ms  75.707 ms  75.758 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  212.270 ms  211.799 ms  211.944 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  140.311 ms  140.254 ms  140.405 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  142.252 ms  146.039 ms  140.409 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  141.104 ms  140.943 ms  141.058 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  265.155 ms  265.235 ms  265.122 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  265.493 ms  265.489 ms  267.351 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  267.272 ms  268.554 ms  268.111 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  267.493 ms  267.467 ms  267.439 ms
+20  119.47.127.137 (119.47.127.137)  268.504 ms  269.799 ms  267.790 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  267.585 ms  267.640 ms  267.583 ms
+
+
+Wed 12 Apr 08:00:42 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.013 ms  1.412 ms  1.828 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.399 ms  0.721 ms  0.708 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.152 ms  1.109 ms  1.090 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.297 ms  1.382 ms  1.991 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.565 ms  8.478 ms  8.460 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.479 ms  7.950 ms  7.907 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.086 ms  7.077 ms  7.035 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.977 ms  7.111 ms  7.124 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.973 ms  6.914 ms  7.048 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.400 ms  7.046 ms  7.139 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  72.808 ms  76.956 ms  72.825 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  94.818 ms  94.402 ms  94.521 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  136.591 ms  138.081 ms  136.531 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  148.724 ms  148.422 ms  140.056 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  140.202 ms  137.359 ms  138.918 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  263.475 ms  261.523 ms  261.460 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  263.487 ms  261.973 ms  261.843 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  261.718 ms  261.974 ms  263.656 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  265.646 ms  265.629 ms  263.863 ms
+20  119.47.127.137 (119.47.127.137)  264.192 ms  264.168 ms  266.147 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  263.927 ms  262.349 ms  264.067 ms
+
+
+Wed 12 Apr 09:00:43 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.052 ms  1.404 ms  2.113 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.343 ms  0.580 ms  0.567 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.012 ms  0.994 ms  0.972 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.960 ms  1.949 ms  1.924 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.052 ms  8.035 ms  7.636 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.031 ms  7.850 ms  7.830 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.867 ms  6.958 ms  6.903 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.147 ms  6.962 ms  6.898 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.883 ms  6.868 ms  6.857 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.727 ms  7.133 ms  7.261 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.929 ms  75.995 ms  75.145 ms
+12  100ge14-2.core1.sjc2.he.net (184.105.81.213)  137.817 ms  137.775 ms  136.164 ms
+13  100ge8-2.core1.lax1.he.net (184.105.223.250)  146.211 ms 10ge3-3.core1.pao1.he.net (72.52.92.69)  136.786 ms 100ge8-2.core1.lax1.he.net (184.105.223.250)  146.083 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  144.898 ms  144.543 ms  153.237 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  145.092 ms  143.354 ms  144.994 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  267.558 ms  269.378 ms  269.359 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  267.717 ms  267.819 ms  267.856 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  269.353 ms  269.568 ms  267.969 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  272.304 ms  272.226 ms  272.157 ms
+20  119.47.127.137 (119.47.127.137)  273.828 ms  273.149 ms  272.505 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  270.624 ms  270.149 ms  271.533 ms
+
+
+Wed 12 Apr 14:00:58 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.883 ms  1.281 ms  1.701 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.381 ms  0.369 ms  0.350 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.939 ms  1.007 ms  0.985 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.086 ms  1.198 ms  1.308 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.797 ms  7.743 ms  7.788 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.863 ms  7.867 ms  7.885 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.909 ms  7.076 ms  14.247 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.908 ms  6.979 ms  6.961 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.024 ms  7.044 ms  7.029 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  39.532 ms  39.698 ms  39.727 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  87.155 ms  87.240 ms  87.390 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  128.706 ms  126.885 ms  127.706 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  139.368 ms  141.212 ms  139.367 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  151.955 ms  149.001 ms  149.034 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  140.432 ms  140.211 ms  141.707 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  267.016 ms  266.695 ms  266.796 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  268.737 ms  268.656 ms  267.332 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  267.053 ms  267.139 ms  267.075 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  269.187 ms  269.173 ms  268.896 ms
+20  119.47.127.137 (119.47.127.137)  271.500 ms  271.329 ms  277.485 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  269.023 ms  271.999 ms  269.106 ms
+
+
+Wed 12 Apr 15:00:59 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.075 ms  1.476 ms  1.887 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.762 ms  0.752 ms  0.727 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.037 ms  1.019 ms  1.043 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.179 ms  1.456 ms  1.287 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  14.525 ms  14.500 ms  14.480 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.807 ms  8.077 ms  8.012 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.832 ms  7.815 ms  7.803 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.216 ms  7.002 ms  7.187 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.102 ms  7.162 ms  7.150 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.481 ms  10.865 ms  9.013 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  78.433 ms  78.360 ms  76.518 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  113.963 ms  114.087 ms  114.077 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  140.061 ms  141.858 ms  141.910 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  171.454 ms  166.108 ms  166.241 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  140.847 ms  140.941 ms  142.641 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  268.226 ms  268.046 ms  269.600 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  268.224 ms  270.343 ms  270.073 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  268.450 ms  268.361 ms  268.239 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  272.000 ms  270.028 ms  270.127 ms
+20  119.47.127.137 (119.47.127.137)  271.537 ms  272.644 ms  272.439 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  270.532 ms  269.950 ms  268.404 ms
+
+
+Wed 12 Apr 20:01:00 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.117 ms  1.575 ms  1.927 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.524 ms  0.943 ms  0.929 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.159 ms  1.140 ms  1.120 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.378 ms  1.607 ms  1.476 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.041 ms  7.970 ms  8.005 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.986 ms  7.704 ms  7.743 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.932 ms  6.919 ms  6.863 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.850 ms  22.497 ms  7.003 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.076 ms  7.035 ms  7.043 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.329 ms  7.257 ms  7.160 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.610 ms  79.093 ms  78.704 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  80.023 ms  79.977 ms  78.236 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  138.924 ms  137.169 ms  138.682 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  138.747 ms  140.551 ms  140.512 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  140.167 ms  139.594 ms  137.896 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  264.176 ms  262.615 ms  262.479 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  264.808 ms  262.916 ms  262.894 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  262.881 ms  264.469 ms  264.462 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  265.011 ms  265.007 ms  266.593 ms
+20  119.47.127.137 (119.47.127.137)  267.656 ms  267.345 ms  267.486 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  264.976 ms  265.120 ms  263.610 ms
+
+
+Wed 12 Apr 21:00:59 BST 2017
+traceroute to thecuriouskiwi.co.nz (119.47.118.43), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.864 ms  1.253 ms  1.657 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.249 ms  0.473 ms  0.460 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.888 ms  0.912 ms  0.874 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.727 ms  1.796 ms  1.908 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.598 ms  7.584 ms  7.697 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.831 ms  7.759 ms  7.697 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.817 ms  6.735 ms  6.788 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.815 ms  6.889 ms  6.876 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.813 ms  6.848 ms  6.859 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.159 ms  7.035 ms  7.100 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.519 ms  74.688 ms  74.675 ms
+12  100ge11-2.core1.ash1.he.net (184.105.223.165)  78.909 ms  78.984 ms  78.947 ms
+13  100ge13-1.core1.lax1.he.net (184.105.80.202)  136.646 ms  148.797 ms  148.814 ms
+14  100ge14-1.core1.lax2.he.net (72.52.92.122)  142.010 ms  141.564 ms  141.676 ms
+15  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  138.845 ms  137.306 ms  139.108 ms
+16  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  261.602 ms  261.715 ms  263.177 ms
+17  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  261.736 ms  263.638 ms  261.521 ms
+18  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  263.313 ms  261.815 ms  261.746 ms
+19  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  265.408 ms  263.815 ms  265.602 ms
+20  119.47.127.137 (119.47.127.137)  266.507 ms  266.356 ms  266.380 ms
+21  lp01.domains4less.net.nz (119.47.118.43)  262.109 ms  265.462 ms  263.866 ms
+
+
