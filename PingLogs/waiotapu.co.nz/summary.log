@@ -238,3 +238,27 @@ Fri 14 Apr 00:16:38 BST 2017
 rtt min/avg/max/mdev = 262.492/263.335/264.588/0.766 ms
 
 
+Fri 14 Apr 06:16:38 BST 2017
+--- waiotapu.co.nz ping statistics ---
+100 packets transmitted, 97 received, 3% packet loss, time 99933ms
+rtt min/avg/max/mdev = 255.550/260.147/261.287/1.135 ms
+
+
+Fri 14 Apr 12:16:40 BST 2017
+--- waiotapu.co.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99788ms
+rtt min/avg/max/mdev = 266.279/268.564/274.755/1.675 ms
+
+
+Fri 14 Apr 18:16:40 BST 2017
+--- waiotapu.co.nz ping statistics ---
+100 packets transmitted, 75 received, 25% packet loss, time 99967ms
+rtt min/avg/max/mdev = 262.152/262.815/263.730/0.714 ms
+
+
+Sat 15 Apr 00:16:39 BST 2017
+--- waiotapu.co.nz ping statistics ---
+100 packets transmitted, 97 received, 3% packet loss, time 99936ms
+rtt min/avg/max/mdev = 257.712/260.369/267.824/1.603 ms
+
+
