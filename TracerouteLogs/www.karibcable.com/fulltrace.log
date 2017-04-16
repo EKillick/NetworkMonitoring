@@ -1120,3 +1120,179 @@ traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
 18  208.94.176.10 (208.94.176.10)  156.592 ms  155.201 ms  157.322 ms
 
 
+Sat 15 Apr 02:01:06 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.586 ms  1.578 ms  1.954 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.579 ms  1.491 ms  1.476 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.459 ms  1.448 ms  1.426 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.415 ms  1.534 ms  1.515 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.025 ms  7.857 ms  7.837 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  14.015 ms  9.757 ms  9.688 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.911 ms  6.893 ms  7.021 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.010 ms  6.996 ms  6.983 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.265 ms  7.273 ms  7.287 ms
+10  ldn-bb2-link.telia.net (62.115.119.144)  6.918 ms ldn-bb2-link.telia.net (62.115.124.200)  57.257 ms ldn-bb2-link.telia.net (62.115.134.138)  6.794 ms
+11  ash-bb4-link.telia.net (62.115.124.140)  79.274 ms ash-bb3-link.telia.net (62.115.124.126)  94.351 ms ash-bb3-link.telia.net (62.115.141.86)  81.842 ms
+12  mai-b2-link.telia.net (62.115.143.153)  110.066 ms ash-bb4-link.telia.net (62.115.136.201)  80.689 ms mai-b2-link.telia.net (62.115.133.42)  108.888 ms
+13  asur-ic-143034-mai-b2.c.telia.net (213.248.86.86)  110.851 ms mai-b2-link.telia.net (62.115.133.46)  100.987 ms asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  103.552 ms
+14  63.245.107.249 (63.245.107.249)  141.682 ms asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  103.010 ms asur-ic-143034-mai-b2.c.telia.net (213.248.86.86)  110.128 ms
+15  67.230.96.66 (67.230.96.66)  146.622 ms  149.162 ms  150.987 ms
+16  162.212.208.3 (162.212.208.3)  153.849 ms  152.258 ms  152.486 ms
+17  162.212.208.13 (162.212.208.13)  153.218 ms  147.979 ms  154.996 ms
+18  208.94.176.10 (208.94.176.10)  151.189 ms  155.757 ms  153.193 ms
+
+
+Sat 15 Apr 03:01:04 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.142 ms  1.362 ms  1.780 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.333 ms  1.060 ms  1.047 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.036 ms  1.007 ms  0.995 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.302 ms  1.148 ms  1.381 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.686 ms  7.671 ms  7.660 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.703 ms  7.912 ms  7.755 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.934 ms  6.879 ms  6.824 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.917 ms  6.870 ms  6.884 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.072 ms  7.055 ms  6.997 ms
+10  ldn-bb3-link.telia.net (62.115.136.42)  6.884 ms ldn-bb3-link.telia.net (62.115.121.60)  7.063 ms ldn-bb2-link.telia.net (62.115.119.144)  7.017 ms
+11  ash-bb4-link.telia.net (62.115.124.144)  80.969 ms ash-bb4-link.telia.net (62.115.124.146)  78.953 ms ash-bb3-link.telia.net (62.115.124.126)  85.849 ms
+12  mai-b2-link.telia.net (62.115.143.161)  106.968 ms ash-bb4-link.telia.net (62.115.136.201)  80.838 ms mai-b2-link.telia.net (62.115.133.42)  109.089 ms
+13  asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  195.598 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  108.228 ms  114.994 ms
+14  asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  111.724 ms 63.245.107.249 (63.245.107.249)  147.740 ms  142.731 ms
+15  67.230.96.66 (67.230.96.66)  151.806 ms  156.672 ms  158.067 ms
+16  162.212.208.3 (162.212.208.3)  154.019 ms  155.252 ms  151.322 ms
+17  162.212.208.13 (162.212.208.13)  152.539 ms  149.275 ms  155.445 ms
+18  162.212.208.13 (162.212.208.13)  153.422 ms 208.94.176.10 (208.94.176.10)  153.788 ms 162.212.208.13 (162.212.208.13)  154.208 ms
+
+
+Sat 15 Apr 08:01:02 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.250 ms  1.435 ms  1.874 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.291 ms  0.620 ms  0.611 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.097 ms  1.071 ms  1.040 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.342 ms  2.716 ms  1.243 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.175 ms  8.088 ms  8.172 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.052 ms  8.175 ms  8.273 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.318 ms  7.312 ms  7.293 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.368 ms  7.269 ms  7.259 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  8.340 ms  8.395 ms  8.302 ms
+10  ldn-bb3-link.telia.net (62.115.121.60)  7.252 ms ldn-bb3-link.telia.net (62.115.136.42)  7.091 ms ldn-bb3-link.telia.net (62.115.124.202)  7.179 ms
+11  ash-bb3-link.telia.net (62.115.141.84)  87.175 ms ash-bb3-link.telia.net (213.155.134.233)  87.083 ms ash-bb4-link.telia.net (80.91.252.103)  84.036 ms
+12  mai-b2-link.telia.net (62.115.143.153)  112.947 ms mai-b2-link.telia.net (62.115.133.42)  112.844 ms mai-b2-link.telia.net (62.115.133.46)  104.983 ms
+13  asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  114.672 ms asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  111.914 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  116.617 ms
+14  63.245.107.249 (63.245.107.249)  144.619 ms  148.774 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  115.359 ms
+15  67.230.96.66 (67.230.96.66)  159.326 ms  154.182 ms  159.407 ms
+16  162.212.208.3 (162.212.208.3)  158.590 ms 67.230.96.66 (67.230.96.66)  156.821 ms 162.212.208.3 (162.212.208.3)  160.205 ms
+17  162.212.208.3 (162.212.208.3)  160.853 ms 162.212.208.13 (162.212.208.13)  154.544 ms 162.212.208.3 (162.212.208.3)  160.539 ms
+18  162.212.208.13 (162.212.208.13)  156.359 ms 208.94.176.10 (208.94.176.10)  162.236 ms  157.858 ms
+
+
+Sat 15 Apr 09:00:48 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.901 ms  1.340 ms  1.712 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.262 ms  0.424 ms  0.410 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.984 ms  0.967 ms  0.956 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.187 ms  1.414 ms  1.270 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.703 ms  7.784 ms  7.764 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.839 ms  7.833 ms  7.820 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.761 ms  6.761 ms  6.936 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.951 ms  6.959 ms  6.946 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  12.438 ms  6.999 ms  7.009 ms
+10  ldn-bb3-link.telia.net (62.115.136.42)  7.002 ms  7.050 ms ldn-bb2-link.telia.net (62.115.141.196)  6.898 ms
+11  ash-bb3-link.telia.net (80.91.249.101)  85.495 ms * nyk-bb4-link.telia.net (213.155.135.67)  81.043 ms
+12  mai-b2-link.telia.net (62.115.133.44)  103.487 ms mai-b2-link.telia.net (62.115.143.153)  108.160 ms ash-bb3-link.telia.net (62.115.137.88)  82.508 ms
+13  asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  107.218 ms  105.235 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  111.833 ms
+14  63.245.107.251 (63.245.107.251)  136.028 ms 63.245.107.249 (63.245.107.249)  137.837 ms  142.746 ms
+15  67.230.96.66 (67.230.96.66)  152.849 ms  149.128 ms  152.822 ms
+16  162.212.208.3 (162.212.208.3)  155.785 ms 67.230.96.66 (67.230.96.66)  151.833 ms 162.212.208.3 (162.212.208.3)  149.197 ms
+17  162.212.208.13 (162.212.208.13)  152.162 ms 162.212.208.3 (162.212.208.3)  154.490 ms 162.212.208.13 (162.212.208.13)  153.412 ms
+18  162.212.208.13 (162.212.208.13)  152.123 ms 208.94.176.10 (208.94.176.10)  153.669 ms  153.393 ms
+
+
+Sat 15 Apr 14:01:23 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.618 ms  1.734 ms  2.129 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.441 ms  0.677 ms  0.665 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.103 ms  1.094 ms  1.085 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.594 ms  1.435 ms  1.423 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.963 ms  7.956 ms  7.939 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.799 ms  7.821 ms  7.805 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.794 ms  6.973 ms  7.012 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.976 ms  6.933 ms  6.943 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.067 ms  7.046 ms  6.974 ms
+10  ldn-bb3-link.telia.net (62.115.134.134)  7.021 ms ldn-bb3-link.telia.net (62.115.124.202)  7.142 ms ldn-bb2-link.telia.net (62.115.124.200)  55.657 ms
+11  ash-bb4-link.telia.net (213.248.65.98)  82.769 ms ash-bb4-link.telia.net (62.115.124.146)  79.995 ms ash-bb4-link.telia.net (62.115.141.92)  79.961 ms
+12  mai-b2-link.telia.net (62.115.143.153)  112.262 ms mai-b2-link.telia.net (62.115.143.155)  108.568 ms mai-b2-link.telia.net (62.115.143.159)  106.443 ms
+13  asur-ic-143034-mai-b2.c.telia.net (213.248.86.86)  112.857 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  112.027 ms asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  109.285 ms
+14  asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  112.499 ms 63.245.107.249 (63.245.107.249)  143.392 ms  141.435 ms
+15  67.230.96.66 (67.230.96.66)  155.694 ms  153.621 ms 63.245.107.251 (63.245.107.251)  138.644 ms
+16  67.230.96.66 (67.230.96.66)  153.584 ms 162.212.208.3 (162.212.208.3)  158.531 ms 67.230.96.66 (67.230.96.66)  154.134 ms
+17  162.212.208.13 (162.212.208.13)  150.823 ms  151.961 ms  148.211 ms
+18  208.94.176.10 (208.94.176.10)  156.267 ms 162.212.208.13 (162.212.208.13)  151.909 ms 208.94.176.10 (208.94.176.10)  155.931 ms
+
+
+Sat 15 Apr 15:01:04 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.232 ms  1.656 ms  2.077 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.396 ms  0.876 ms  0.856 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.050 ms  1.021 ms  1.004 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.188 ms  1.325 ms  1.455 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.802 ms  7.895 ms  7.868 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.854 ms  7.933 ms  8.028 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.062 ms  7.096 ms  7.086 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.139 ms  7.123 ms  7.037 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.751 ms  7.115 ms  7.072 ms
+10  ldn-bb3-link.telia.net (62.115.136.42)  7.120 ms ldn-bb2-link.telia.net (62.115.134.138)  7.079 ms ldn-bb2-link.telia.net (62.115.124.200)  12.114 ms
+11  ash-bb3-link.telia.net (80.91.249.101)  91.534 ms ash-bb4-link.telia.net (62.115.141.90)  80.127 ms ash-bb3-link.telia.net (80.91.246.66)  83.288 ms
+12  ash-bb3-link.telia.net (62.115.137.88)  84.067 ms mai-b2-link.telia.net (62.115.143.155)  110.763 ms mai-b2-link.telia.net (62.115.143.153)  112.640 ms
+13  asur-ic-143034-mai-b2.c.telia.net (213.248.86.86)  113.172 ms  109.105 ms asur-ic-301282-mai-b2.c.telia.net (62.115.14.6)  103.007 ms
+14  63.245.107.251 (63.245.107.251)  136.978 ms 63.245.107.249 (63.245.107.249)  139.224 ms  139.090 ms
+15  67.230.96.66 (67.230.96.66)  156.307 ms  154.041 ms  156.239 ms
+16  67.230.96.66 (67.230.96.66)  154.659 ms 162.212.208.3 (162.212.208.3)  159.144 ms  153.865 ms
+17  162.212.208.3 (162.212.208.3)  157.481 ms 162.212.208.13 (162.212.208.13)  155.248 ms  151.360 ms
+18  162.212.208.13 (162.212.208.13)  153.142 ms 208.94.176.10 (208.94.176.10)  158.552 ms  154.518 ms
+
+
+Sat 15 Apr 20:01:24 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.302 ms  1.590 ms  2.001 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.275 ms  0.263 ms  0.593 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.186 ms  1.173 ms  0.938 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.438 ms  1.127 ms  1.252 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  12.709 ms  12.694 ms  12.713 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  11.611 ms  10.851 ms  10.856 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.887 ms  6.837 ms  6.827 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.803 ms  6.792 ms  6.769 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  6.896 ms  6.873 ms  6.885 ms
+10  ldn-bb3-link.telia.net (62.115.121.60)  6.813 ms ldn-bb2-link.telia.net (62.115.141.196)  6.842 ms ldn-bb2-link.telia.net (62.115.134.138)  6.898 ms
+11  ash-bb3-link.telia.net (62.115.141.86)  81.714 ms ash-bb3-link.telia.net (80.91.246.68)  81.989 ms ash-bb3-link.telia.net (62.115.141.84)  83.564 ms
+12  mai-b2-link.telia.net (62.115.143.159)  104.696 ms ash-bb4-link.telia.net (62.115.136.201)  80.302 ms mai-b2-link.telia.net (62.115.143.161)  106.041 ms
+13  asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  177.148 ms  176.480 ms asur-ic-143034-mai-b2.c.telia.net (213.248.86.86)  106.925 ms
+14  63.245.107.251 (63.245.107.251)  133.925 ms 63.245.107.249 (63.245.107.249)  138.848 ms 63.245.107.251 (63.245.107.251)  136.042 ms
+15  67.230.96.66 (67.230.96.66)  150.748 ms 63.245.107.249 (63.245.107.249)  140.656 ms 67.230.96.66 (67.230.96.66)  156.202 ms
+16  162.212.208.3 (162.212.208.3)  150.974 ms  149.056 ms  -436.504 ms
+17  162.212.208.13 (162.212.208.13)  149.214 ms 162.212.208.3 (162.212.208.3)  151.738 ms 162.212.208.13 (162.212.208.13)  154.930 ms
+18  162.212.208.13 (162.212.208.13)  149.467 ms 208.94.176.10 (208.94.176.10)  151.445 ms  153.348 ms
+
+
+Sat 15 Apr 21:01:19 BST 2017
+traceroute to www.karibcable.com (208.94.176.10), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.228 ms  1.270 ms  2.179 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.315 ms  1.135 ms  1.116 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.105 ms  1.086 ms  1.025 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.164 ms  1.293 ms  1.374 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.753 ms  7.742 ms  7.605 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.705 ms  7.698 ms  7.793 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.815 ms  6.907 ms  6.740 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.849 ms  6.723 ms  6.820 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  6.951 ms  7.276 ms  6.912 ms
+10  ldn-bb3-link.telia.net (62.115.134.134)  6.899 ms ldn-bb2-link.telia.net (62.115.119.144)  6.854 ms ldn-bb3-link.telia.net (62.115.134.134)  6.906 ms
+11  ash-bb3-link.telia.net (80.91.249.101)  85.740 ms ash-bb4-link.telia.net (213.248.65.210)  80.202 ms nyk-bb4-link.telia.net (213.155.133.7)  81.015 ms
+12  mai-b2-link.telia.net (62.115.143.153)  110.535 ms mai-b2-link.telia.net (62.115.133.42)  108.495 ms  108.686 ms
+13  mai-b2-link.telia.net (62.115.143.155)  107.489 ms asurnet-ic-316909-mai-b2.c.telia.net (62.115.145.251)  110.615 ms  110.552 ms
+14  63.245.107.249 (63.245.107.249)  136.714 ms  141.471 ms 63.245.107.251 (63.245.107.251)  136.682 ms
+15  63.245.107.249 (63.245.107.249)  141.843 ms 67.230.96.66 (67.230.96.66)  153.686 ms 63.245.107.249 (63.245.107.249)  142.118 ms
+16  162.212.208.3 (162.212.208.3)  151.435 ms 67.230.96.66 (67.230.96.66)  152.131 ms 162.212.208.3 (162.212.208.3)  154.509 ms
+17  162.212.208.13 (162.212.208.13)  146.128 ms  150.030 ms  151.172 ms
+18  208.94.176.10 (208.94.176.10)  153.985 ms  151.454 ms  151.926 ms
+
+
