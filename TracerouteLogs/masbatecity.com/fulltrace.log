@@ -2820,3 +2820,275 @@ traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
 30  * * *
 
 
+Wed 19 Apr 02:00:23 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.000 ms  1.323 ms  1.768 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.386 ms  0.314 ms  0.293 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.988 ms  0.967 ms  0.959 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.512 ms  4.379 ms  4.210 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  9.627 ms  9.610 ms  9.589 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  19.234 ms  17.576 ms  17.561 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.277 ms  7.436 ms  7.255 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.236 ms  7.394 ms  7.379 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  167.778 ms  198.976 ms  167.557 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  136.348 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  136.837 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  136.376 ms
+13  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  136.009 ms  135.964 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  135.753 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 03:00:19 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.077 ms  1.496 ms  1.926 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.417 ms  0.739 ms  0.722 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.102 ms  1.082 ms  1.061 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.420 ms  1.222 ms  1.382 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.101 ms  8.035 ms  8.067 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.045 ms  8.050 ms  8.032 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.278 ms  7.265 ms  7.237 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.104 ms  7.134 ms  7.081 ms
+ 9  lag-108.ear2.London2.Level3.net (212.187.139.165)  7.831 ms  8.080 ms  7.562 ms
+10  * * *
+11  4.28.83.74 (4.28.83.74)  200.480 ms  168.734 ms  168.839 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  137.583 ms  137.644 ms  137.391 ms
+13  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  137.238 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  137.386 ms  168.742 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 08:00:19 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.195 ms  1.396 ms  1.790 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.349 ms  1.097 ms  1.084 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.062 ms  1.045 ms  1.021 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.461 ms  1.181 ms  1.303 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.787 ms  7.774 ms  7.955 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.941 ms  7.815 ms  7.719 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.944 ms  6.931 ms  7.101 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.084 ms  7.056 ms  7.031 ms
+ 9  lag-108.ear2.London2.Level3.net (212.187.139.165)  7.681 ms  7.377 ms  7.876 ms
+10  * * *
+11  4.28.83.74 (4.28.83.74)  163.139 ms  163.004 ms  163.141 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  163.247 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  132.816 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  132.712 ms
+13  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  132.181 ms  132.307 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  163.055 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 09:00:23 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.384 ms  1.506 ms  1.912 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.458 ms  1.301 ms  1.282 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.269 ms  1.252 ms  1.244 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.231 ms  1.350 ms  1.558 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.760 ms  7.717 ms  7.634 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.681 ms  7.769 ms  7.856 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.031 ms  7.498 ms  7.473 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.974 ms  7.451 ms  6.946 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  161.341 ms  191.326 ms  191.250 ms
+12  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  161.856 ms  131.355 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  161.618 ms
+13  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  130.571 ms  130.745 ms  131.045 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 14:00:37 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.982 ms  1.349 ms  1.763 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.291 ms  0.272 ms  0.434 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.993 ms  1.020 ms  0.950 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.030 ms  4.370 ms  4.477 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.663 ms  7.654 ms  7.664 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.291 ms  8.265 ms  8.283 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.771 ms  6.912 ms  7.199 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.960 ms  6.906 ms  6.931 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  704.736 ms  674.767 ms  674.760 ms
+12  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  645.153 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  644.311 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  644.679 ms
+13  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  674.686 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  644.316 ms  644.125 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 15:00:21 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.747 ms  1.735 ms  2.167 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.406 ms  0.711 ms  0.699 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.162 ms  1.147 ms  1.119 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.598 ms  1.585 ms  1.568 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.778 ms  7.765 ms  7.746 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.792 ms  8.298 ms  8.411 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.390 ms  7.340 ms  6.957 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.345 ms  7.465 ms  6.719 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  161.171 ms  191.282 ms  160.903 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  160.962 ms  161.159 ms  131.251 ms
+13  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  130.936 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  130.727 ms  130.787 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 20:00:33 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.108 ms  1.511 ms  1.946 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.450 ms  0.432 ms  0.671 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.118 ms  1.109 ms  1.088 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.581 ms  1.446 ms  1.258 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.156 ms  8.142 ms  8.124 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.942 ms  7.930 ms  8.079 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.180 ms  7.219 ms  7.197 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.185 ms  7.104 ms  7.092 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  167.286 ms  167.401 ms  198.889 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  136.344 ms  167.762 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  136.287 ms
+13  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  136.074 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  135.952 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  135.757 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+Wed 19 Apr 21:00:21 BST 2017
+traceroute to masbatecity.com (208.109.181.4), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.991 ms  1.347 ms  1.771 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.280 ms  0.808 ms  0.799 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.990 ms  0.973 ms  0.939 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.318 ms  1.198 ms  1.428 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.396 ms  8.312 ms  7.939 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.923 ms  8.174 ms  8.150 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  12.949 ms  12.969 ms  12.958 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.155 ms  7.301 ms  7.290 ms
+ 9  * * *
+10  * * *
+11  4.28.83.74 (4.28.83.74)  166.093 ms  166.202 ms  165.904 ms
+12  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  135.405 ms  135.257 ms  134.928 ms
+13  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  134.710 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  134.762 ms  134.866 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
