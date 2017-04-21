@@ -382,3 +382,27 @@ Thu 20 Apr 00:10:01 BST 2017
 rtt min/avg/max/mdev = 0.000/277.964/281.528/27.955 ms
 
 
+Thu 20 Apr 06:10:01 BST 2017
+--- rederio.br ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99235ms
+rtt min/avg/max/mdev = 281.030/289.894/294.447/4.680 ms
+
+
+Thu 20 Apr 12:10:02 BST 2017
+--- rederio.br ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99086ms
+rtt min/avg/max/mdev = 189.693/269.275/288.762/35.270 ms
+
+
+Thu 20 Apr 18:10:03 BST 2017
+--- rederio.br ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99243ms
+rtt min/avg/max/mdev = 281.704/281.882/284.886/0.794 ms
+
+
+Fri 21 Apr 00:10:00 BST 2017
+--- rederio.br ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99190ms
+rtt min/avg/max/mdev = 109.691/259.537/382.228/71.737 ms
+
+
