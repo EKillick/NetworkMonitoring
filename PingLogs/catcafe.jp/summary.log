@@ -406,3 +406,27 @@ Fri 21 Apr 00:01:42 BST 2017
 rtt min/avg/max/mdev = 244.827/247.104/249.701/1.745 ms
 
 
+Fri 21 Apr 06:01:41 BST 2017
+--- catcafe.jp ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99121ms
+rtt min/avg/max/mdev = 241.176/242.222/243.380/0.848 ms
+
+
+Fri 21 Apr 12:01:42 BST 2017
+--- catcafe.jp ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99449ms
+rtt min/avg/max/mdev = 0.000/235.812/240.905/23.725 ms
+
+
+Fri 21 Apr 18:01:41 BST 2017
+--- catcafe.jp ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99085ms
+rtt min/avg/max/mdev = 74.312/214.606/248.729/63.935 ms
+
+
+Sat 22 Apr 00:01:42 BST 2017
+--- catcafe.jp ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99106ms
+rtt min/avg/max/mdev = 166.501/232.035/242.951/25.179 ms
+
+
