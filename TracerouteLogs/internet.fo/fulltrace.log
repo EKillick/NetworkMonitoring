@@ -2055,3 +2055,171 @@ traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
 17  www.olivant.fo (212.55.32.93)  56.640 ms  51.160 ms  51.223 ms
 
 
+Sat 22 Apr 02:00:20 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.232 ms  1.530 ms  1.957 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.491 ms  0.898 ms  0.877 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.130 ms  1.122 ms  1.102 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.610 ms  1.450 ms  1.299 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.354 ms  1.882 ms  1.193 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  5.070 ms  4.255 ms  4.466 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.615 ms  4.599 ms  4.522 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  14.630 ms  14.581 ms  14.565 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.976 ms  17.118 ms  7.951 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.168 ms  8.158 ms  8.143 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.123 ms  8.442 ms  7.747 ms
+12  ldn-bb3-link.telia.net (80.91.247.91)  7.893 ms ldn-bb3-link.telia.net (80.91.248.217)  8.339 ms ldn-bb3-link.telia.net (80.91.247.91)  7.863 ms
+13  ldn-b7-link.telia.net (62.115.141.149)  8.362 ms ldn-b7-link.telia.net (62.115.141.145)  7.787 ms  7.770 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.815 ms  9.007 ms  9.042 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  55.797 ms  54.644 ms  53.118 ms
+16  193.34.104.65 (193.34.104.65)  42.172 ms core-tokni2-ten4-4.internet.fo (193.34.104.125)  38.017 ms 193.34.104.65 (193.34.104.65)  41.664 ms
+17  test.inet.fo (212.55.32.93)  52.963 ms  52.629 ms  52.578 ms
+
+
+Sat 22 Apr 03:00:19 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.232 ms  1.533 ms  1.971 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.452 ms  0.482 ms  0.483 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.103 ms  1.084 ms  1.117 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.615 ms  1.325 ms  1.446 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.209 ms  1.331 ms  1.428 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.332 ms  4.470 ms  4.450 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.158 ms  5.082 ms  5.116 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.349 ms  8.336 ms  7.687 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  16.156 ms  16.141 ms  16.127 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.342 ms  8.328 ms  8.253 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.660 ms  8.022 ms  7.721 ms
+12  ldn-bb2-link.telia.net (213.155.132.196)  39.891 ms ldn-bb2-link.telia.net (80.91.247.93)  7.751 ms ldn-bb3-link.telia.net (80.91.246.144)  7.834 ms
+13  ldn-b7-link.telia.net (62.115.137.193)  7.858 ms ldn-b7-link.telia.net (62.115.137.195)  8.992 ms ldn-b7-link.telia.net (62.115.114.191)  8.030 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.977 ms  8.858 ms  9.001 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  53.504 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  37.880 ms  37.931 ms
+16  core-tokni2-ten4-4.internet.fo (193.34.104.125)  37.274 ms 193.34.104.65 (193.34.104.65)  42.509 ms core-tokni2-ten4-4.internet.fo (193.34.104.125)  38.311 ms
+17  speedtest3.internet.fo (212.55.32.93)  54.428 ms  53.199 ms  53.179 ms
+
+
+Sat 22 Apr 08:00:19 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.992 ms  1.367 ms  1.767 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.337 ms  0.593 ms  0.579 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.081 ms  1.055 ms  1.033 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.552 ms  1.807 ms  1.638 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.437 ms  1.255 ms  1.088 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.141 ms  4.331 ms  4.317 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.305 ms  4.433 ms  4.324 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.579 ms  7.516 ms  7.548 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.541 ms  7.617 ms  7.574 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.557 ms  7.545 ms  7.636 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.624 ms  7.422 ms  38.491 ms
+12  ldn-bb2-link.telia.net (213.155.132.196)  23.529 ms ldn-bb3-link.telia.net (80.91.246.144)  7.552 ms ldn-bb2-link.telia.net (213.155.132.196)  21.566 ms
+13  ldn-b7-link.telia.net (62.115.114.187)  7.540 ms ldn-b7-link.telia.net (62.115.114.175)  7.846 ms ldn-b7-link.telia.net (62.115.137.189)  7.829 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.661 ms  8.789 ms  8.720 ms
+15  cor1-tok1-bun111.internet.fo (193.34.104.36)  36.347 ms cor2-tok2-bun211.internet.fo (193.34.104.100)  51.638 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  36.434 ms
+16  193.34.104.65 (193.34.104.65)  40.881 ms  40.803 ms  40.763 ms
+17  test.olivant.fo (212.55.32.93)  51.425 ms  51.480 ms  52.359 ms
+
+
+Sat 22 Apr 09:00:16 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.395 ms  1.552 ms  1.968 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.289 ms  0.282 ms  0.262 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.950 ms  0.934 ms  0.908 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.410 ms  3.613 ms  3.724 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.160 ms  1.272 ms  1.398 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.201 ms  4.262 ms  4.188 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.296 ms  4.277 ms  4.341 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.692 ms  7.609 ms  7.628 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.616 ms  7.605 ms  15.173 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.606 ms  7.543 ms  7.456 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.505 ms  7.535 ms  7.561 ms
+12  ldn-bb2-link.telia.net (80.91.249.181)  7.605 ms ldn-bb2-link.telia.net (213.155.132.196)  105.889 ms ldn-bb2-link.telia.net (80.91.249.181)  7.571 ms
+13  ldn-b7-link.telia.net (62.115.137.195)  7.702 ms ldn-b7-link.telia.net (62.115.138.151)  7.741 ms ldn-b7-link.telia.net (62.115.137.193)  7.728 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.532 ms  8.955 ms  8.380 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  53.972 ms  53.955 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  36.548 ms
+16  193.34.104.65 (193.34.104.65)  40.964 ms core-tokni2-ten4-4.internet.fo (193.34.104.125)  36.295 ms  36.267 ms
+17  speedtest1.internet.fo (212.55.32.93)  52.381 ms  52.000 ms  51.989 ms
+
+
+Sat 22 Apr 14:00:22 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.258 ms  1.632 ms  2.038 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.239 ms  0.520 ms  0.508 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.969 ms  0.952 ms  0.945 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.186 ms  1.224 ms  1.313 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.087 ms  1.792 ms  1.201 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.235 ms  4.285 ms  4.298 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.373 ms  4.385 ms  4.333 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.494 ms  7.535 ms  7.522 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.404 ms  7.541 ms  7.469 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.560 ms  7.465 ms  7.421 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.396 ms  7.408 ms  7.418 ms
+12  ldn-bb3-link.telia.net (213.155.136.74)  7.593 ms ldn-bb3-link.telia.net (80.91.246.144)  7.576 ms ldn-bb2-link.telia.net (80.91.247.93)  60.931 ms
+13  ldn-b7-link.telia.net (62.115.137.193)  7.609 ms ldn-b7-link.telia.net (62.115.136.113)  7.662 ms ldn-b7-link.telia.net (62.115.137.193)  8.571 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.595 ms  8.214 ms  8.465 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  52.420 ms  52.676 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  36.154 ms
+16  193.34.104.65 (193.34.104.65)  40.350 ms  40.543 ms  40.385 ms
+17  olivant.fo (212.55.32.93)  51.238 ms  51.112 ms  51.213 ms
+
+
+Sat 22 Apr 15:00:18 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.981 ms  1.384 ms  1.791 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.334 ms  0.878 ms  0.874 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.040 ms  1.025 ms  1.007 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.134 ms  1.262 ms  1.302 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.306 ms  1.169 ms  1.382 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  16.214 ms  8.200 ms  8.184 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.600 ms  4.588 ms  4.535 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.555 ms  8.534 ms  8.524 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.712 ms  7.886 ms  7.972 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.144 ms  8.153 ms  8.142 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.103 ms  7.531 ms  7.517 ms
+12  ldn-bb2-link.telia.net (213.155.136.76)  7.506 ms ldn-bb2-link.telia.net (80.91.246.146)  7.561 ms ldn-bb3-link.telia.net (80.91.248.217)  9.878 ms
+13  ldn-b7-link.telia.net (213.155.137.119)  7.840 ms ldn-b7-link.telia.net (80.91.248.93)  7.778 ms ldn-b7-link.telia.net (213.155.137.119)  7.815 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  9.299 ms  8.485 ms  9.315 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  51.642 ms  51.527 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  36.067 ms
+16  193.34.104.65 (193.34.104.65)  40.522 ms core-tokni2-ten4-4.internet.fo (193.34.104.125)  36.728 ms  36.078 ms
+17  olivant.fo (212.55.32.93)  51.982 ms  51.318 ms  51.343 ms
+
+
+Sat 22 Apr 20:00:20 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.040 ms  1.472 ms  1.884 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.422 ms  0.409 ms  0.677 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.076 ms  1.027 ms  1.066 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.241 ms  1.509 ms  1.367 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.195 ms  1.310 ms  1.406 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.262 ms  4.239 ms  4.394 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.580 ms  4.432 ms  4.574 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.723 ms  7.739 ms  7.699 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.634 ms  7.747 ms  7.606 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.754 ms  7.635 ms  7.821 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.780 ms  7.640 ms  7.594 ms
+12  ldn-bb2-link.telia.net (213.155.136.76)  7.630 ms ldn-bb3-link.telia.net (80.91.246.96)  7.661 ms  7.746 ms
+13  ldn-b7-link.telia.net (213.155.136.61)  7.730 ms ldn-b7-link.telia.net (62.115.136.111)  7.797 ms ldn-b7-link.telia.net (62.115.141.149)  8.518 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.819 ms  8.748 ms  8.429 ms
+15  cor1-tok1-bun111.internet.fo (193.34.104.36)  36.900 ms cor2-tok2-bun211.internet.fo (193.34.104.100)  52.640 ms  53.440 ms
+16  core-tokni2-ten4-4.internet.fo (193.34.104.125)  39.651 ms  39.769 ms  38.929 ms
+17  olivant.fo (212.55.32.93)  53.015 ms  52.561 ms  52.547 ms
+
+
+Sat 22 Apr 21:00:17 BST 2017
+traceroute to internet.fo (212.55.32.93), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.179 ms  1.549 ms  1.950 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.806 ms  1.102 ms  1.088 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.134 ms  1.091 ms  1.097 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.245 ms  1.461 ms  1.358 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.370 ms  1.191 ms  1.510 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.247 ms  4.535 ms  4.516 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.615 ms  4.595 ms  4.582 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.784 ms  7.772 ms  7.754 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.660 ms  7.843 ms  7.845 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.730 ms  8.855 ms  9.080 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.824 ms  8.502 ms  7.727 ms
+12  ldn-bb3-link.telia.net (80.91.247.91)  7.915 ms ldn-bb2-link.telia.net (80.91.246.146)  7.902 ms ldn-bb3-link.telia.net (213.155.132.194)  7.888 ms
+13  ldn-b7-link.telia.net (62.115.114.179)  7.916 ms ldn-b7-link.telia.net (62.115.136.113)  7.918 ms ldn-b7-link.telia.net (62.115.114.183)  7.812 ms
+14  pftelefon-ic-312967-ldn-b7.c.telia.net (62.115.58.174)  8.552 ms  8.905 ms  8.802 ms
+15  cor2-tok2-bun211.internet.fo (193.34.104.100)  53.441 ms cor1-tok1-bun111.internet.fo (193.34.104.36)  36.827 ms cor2-tok2-bun211.internet.fo (193.34.104.100)  53.283 ms
+16  193.34.104.65 (193.34.104.65)  55.386 ms core-tokni2-ten4-4.internet.fo (193.34.104.125)  50.901 ms  50.767 ms
+17  www.olivant.fo (212.55.32.93)  55.920 ms  52.568 ms  52.546 ms
+
+
