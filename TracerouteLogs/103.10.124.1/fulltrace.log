@@ -2194,3 +2194,155 @@ traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
 15  sgp-2.valve.net (103.10.124.1)  193.930 ms  196.615 ms  196.515 ms
 
 
+Tue 25 Apr 02:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.297 ms  1.486 ms  1.967 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.424 ms  0.404 ms  1.001 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.846 ms  1.810 ms  1.777 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.155 ms  1.242 ms  1.555 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  21.282 ms  1.833 ms  1.673 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.289 ms  4.491 ms  4.470 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.509 ms  4.487 ms  4.403 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.689 ms  7.665 ms  7.643 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.813 ms  8.031 ms  8.015 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.897 ms  7.640 ms  7.627 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  7.619 ms  8.164 ms  7.844 ms
+12  85.95.27.193 (85.95.27.193)  8.397 ms  8.378 ms xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  8.288 ms
+13  85.95.27.162 (85.95.27.162)  203.278 ms xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  198.978 ms  198.965 ms
+14  80.81.65.122 (80.81.65.122)  199.015 ms  196.171 ms  199.042 ms
+15  sgp-2.valve.net (103.10.124.1)  199.446 ms  199.545 ms  199.583 ms
+
+
+Tue 25 Apr 03:00:00 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.614 ms  1.661 ms  2.071 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.801 ms  0.781 ms  1.452 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.441 ms  1.415 ms  1.402 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.471 ms  1.355 ms  1.659 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.401 ms  1.380 ms  1.595 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.375 ms  4.517 ms  4.496 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.687 ms  4.604 ms  4.637 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.828 ms  7.805 ms  7.733 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.668 ms  7.648 ms  7.880 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.865 ms  7.837 ms  7.942 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  7.695 ms  7.923 ms  7.790 ms
+12  xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  8.144 ms 85.95.27.193 (85.95.27.193)  8.301 ms 85.95.27.197 (85.95.27.197)  8.285 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  200.722 ms  200.965 ms  200.918 ms
+14  80.81.65.122 (80.81.65.122)  201.710 ms  205.395 ms  201.681 ms
+15  sgp-2.valve.net (103.10.124.1)  198.415 ms  199.905 ms  201.639 ms
+
+
+Tue 25 Apr 08:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.118 ms  1.509 ms  1.982 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.584 ms  0.568 ms  0.539 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.274 ms  1.259 ms  1.228 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.456 ms  3.301 ms  3.589 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.218 ms  1.287 ms  1.394 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.161 ms  4.259 ms  4.250 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.560 ms  4.526 ms  4.512 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  29.955 ms  29.920 ms  29.903 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  13.727 ms  7.575 ms  7.573 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.064 ms  8.050 ms  8.029 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  8.011 ms  7.988 ms  7.825 ms
+12  xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  9.101 ms 85.95.27.197 (85.95.27.197)  8.216 ms  8.220 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  199.825 ms  198.958 ms  198.949 ms
+14  80.81.65.122 (80.81.65.122)  199.021 ms  199.003 ms  198.980 ms
+15  sgp-2.valve.net (103.10.124.1)  196.254 ms  199.129 ms  199.241 ms
+
+
+Tue 25 Apr 09:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.187 ms  1.497 ms  1.892 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.523 ms  0.524 ms  0.505 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  103.550 ms  103.936 ms  104.120 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.357 ms  1.205 ms  1.426 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.339 ms  1.191 ms  1.484 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.465 ms  4.587 ms  4.575 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.567 ms  4.937 ms  4.918 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.815 ms  7.811 ms  7.799 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.112 ms  8.097 ms  8.095 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.068 ms  8.047 ms  7.642 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  60.159 ms  60.151 ms  60.157 ms
+12  xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  8.118 ms  8.318 ms xe-2-2-0.0.pjr03.ldn001.flagtel.com (62.216.128.113)  8.277 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  196.925 ms  196.935 ms  196.884 ms
+14  80.81.65.122 (80.81.65.122)  196.896 ms  197.555 ms  197.541 ms
+15  sgp-2.valve.net (103.10.124.1)  197.345 ms  194.358 ms  197.001 ms
+
+
+Tue 25 Apr 14:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.073 ms  1.422 ms  1.841 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.410 ms  0.395 ms  0.377 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.002 ms  0.987 ms  0.943 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.320 ms  2.026 ms  2.138 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.028 ms  1.120 ms  5.868 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.296 ms  16.511 ms  16.494 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.450 ms  4.418 ms  5.061 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.534 ms  7.516 ms  7.640 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.614 ms  7.807 ms  7.760 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.755 ms  7.812 ms  7.461 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  25.699 ms  25.760 ms  19.286 ms
+12  xe-9-1-1.0.pjr04.ldn001.flagtel.com (85.95.25.13)  8.075 ms so-1-0-0.0.pjr01.ldn001.flagtel.com (85.95.25.9)  8.107 ms 85.95.27.193 (85.95.27.193)  8.096 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  195.340 ms 85.95.27.162 (85.95.27.162)  199.742 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  210.389 ms
+14  80.81.65.122 (80.81.65.122)  195.990 ms  195.933 ms  195.925 ms
+15  sgp-2.valve.net (103.10.124.1)  195.919 ms  195.909 ms  200.136 ms
+
+
+Tue 25 Apr 15:00:06 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  6.212 ms  6.569 ms  7.011 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.294 ms  0.629 ms  0.618 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  7.369 ms  7.280 ms  7.254 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.315 ms  1.207 ms  1.013 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.077 ms  3.511 ms  1.296 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.371 ms  4.270 ms  4.249 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  11.203 ms  11.382 ms  11.154 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  19.494 ms  19.525 ms  18.248 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.161 ms  7.465 ms  7.448 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.525 ms  7.473 ms  7.483 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  7.755 ms  7.760 ms  7.711 ms
+12  xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  9.439 ms xe-2-2-0.0.pjr03.ldn001.flagtel.com (62.216.128.113)  14.044 ms 85.95.27.193 (85.95.27.193)  8.122 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  196.274 ms 85.95.27.162 (85.95.27.162)  199.974 ms xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  195.235 ms
+14  80.81.65.122 (80.81.65.122)  200.316 ms  195.357 ms  199.446 ms
+15  sgp-2.valve.net (103.10.124.1)  197.003 ms  196.791 ms  195.716 ms
+
+
+Tue 25 Apr 20:00:02 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.014 ms  1.401 ms  1.813 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.326 ms  0.301 ms  0.584 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  74.787 ms  74.757 ms  74.801 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.410 ms  1.084 ms  1.191 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.074 ms  1.209 ms  1.316 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.339 ms  4.446 ms  4.460 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.541 ms  4.519 ms  4.507 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  11.181 ms  11.232 ms  11.216 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.440 ms  8.423 ms  8.441 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.784 ms  7.587 ms  7.741 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  104.720 ms  104.690 ms  106.345 ms
+12  85.95.27.193 (85.95.27.193)  106.798 ms xe-2-2-0.0.pjr03.ldn001.flagtel.com (62.216.128.113)  105.029 ms xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  106.390 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  307.949 ms  307.889 ms xe-1-0-1.0.cjr01.sin001.flagtel.com (85.95.25.122)  322.263 ms
+14  80.81.65.122 (80.81.65.122)  300.602 ms  296.284 ms  298.041 ms
+15  sgp-2.valve.net (103.10.124.1)  298.146 ms  294.666 ms  291.686 ms
+
+
+Tue 25 Apr 21:00:01 BST 2017
+traceroute to 103.10.124.1 (103.10.124.1), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.287 ms  1.594 ms  1.914 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.403 ms  0.387 ms  0.798 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.424 ms  1.414 ms  1.381 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.388 ms  1.345 ms  1.428 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.262 ms  1.313 ms  1.351 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.334 ms  4.584 ms  4.565 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.536 ms  4.514 ms  4.506 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.742 ms  7.707 ms  7.706 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.675 ms  8.139 ms  8.057 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.594 ms  8.740 ms  8.719 ms
+11  peer1.ldn1.flagtel.com (195.66.224.146)  7.957 ms  15.509 ms  10.007 ms
+12  85.95.27.197 (85.95.27.197)  8.840 ms  8.282 ms xe-8-1-3.0.pjr03.ldn001.flagtel.com (85.95.26.242)  8.271 ms
+13  xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  200.608 ms  199.644 ms  199.623 ms
+14  80.81.65.122 (80.81.65.122)  199.614 ms  197.755 ms  203.902 ms
+15  sgp-2.valve.net (103.10.124.1)  200.106 ms  200.083 ms  204.412 ms
+
+
