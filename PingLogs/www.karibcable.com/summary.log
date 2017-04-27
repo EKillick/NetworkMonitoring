@@ -526,3 +526,27 @@ Wed 26 Apr 00:18:25 BST 2017
 rtt min/avg/max/mdev = 147.026/150.104/152.386/1.201 ms
 
 
+Wed 26 Apr 06:18:20 BST 2017
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99221ms
+rtt min/avg/max/mdev = 9.356/137.021/157.455/44.076 ms
+
+
+Wed 26 Apr 12:18:23 BST 2017
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99117ms
+rtt min/avg/max/mdev = 147.846/151.094/153.671/1.210 ms
+
+
+Wed 26 Apr 18:18:28 BST 2017
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99028ms
+rtt min/avg/max/mdev = 147.044/150.366/154.478/1.765 ms
+
+
+Thu 27 Apr 00:18:24 BST 2017
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99065ms
+rtt min/avg/max/mdev = 150.584/154.003/164.978/1.620 ms
+
+
