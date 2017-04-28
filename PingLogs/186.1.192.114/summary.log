@@ -1,0 +1,12 @@
+Thu 27 Apr 18:01:41 BST 2017
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 71 received, 29% packet loss, time 99195ms
+rtt min/avg/max/mdev = 144.336/147.688/150.623/1.083 ms
+
+
+Fri 28 Apr 00:01:43 BST 2017
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 91 received, 9% packet loss, time 99142ms
+rtt min/avg/max/mdev = 144.207/146.534/290.934/15.237 ms
+
+
