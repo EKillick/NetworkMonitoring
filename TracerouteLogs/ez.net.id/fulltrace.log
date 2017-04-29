@@ -4589,3 +4589,251 @@ traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
 27  ns1.indoregistrar.com (202.80.112.80)  286.653 ms  286.655 ms  287.580 ms
 
 
+Fri 28 Apr 02:00:24 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.908 ms  1.318 ms  1.763 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.323 ms  0.310 ms  0.305 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.024 ms  0.998 ms  0.917 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.149 ms  1.607 ms  1.590 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.578 ms  1.560 ms  1.543 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.275 ms  4.436 ms  4.419 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.408 ms  4.430 ms  4.416 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.783 ms  7.772 ms  7.759 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.619 ms  7.616 ms  7.565 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.330 ms  7.625 ms  7.574 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.737 ms  7.934 ms  7.876 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  9.003 ms  14.647 ms  8.109 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  285.195 ms  285.366 ms  285.296 ms
+15  * * *
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  271.677 ms  271.738 ms  271.697 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  276.420 ms  275.485 ms  275.815 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  261.753 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (80.231.217.30)  277.654 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  261.443 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  271.413 ms  270.917 ms  270.615 ms
+20  if-ina-2.tcore2.SVW-Singapore.as6453.net (180.87.12.226)  270.480 ms  270.344 ms  271.458 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  269.654 ms  271.004 ms  271.132 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  257.841 ms  258.884 ms  257.628 ms
+23  120.29.215.166 (120.29.215.166)  294.944 ms  296.178 ms  295.919 ms
+24  103.23.181.154 (103.23.181.154)  286.622 ms  286.049 ms  286.604 ms
+25  202.80.112.114 (202.80.112.114)  287.861 ms  287.560 ms  287.362 ms
+26  202.80.112.186 (202.80.112.186)  286.622 ms  287.566 ms  286.824 ms
+27  ns1.indoregistrar.com (202.80.112.80)  291.014 ms  291.951 ms  291.906 ms
+
+
+Fri 28 Apr 03:00:11 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.030 ms  1.413 ms  1.838 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.390 ms  0.369 ms  0.903 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.065 ms  1.043 ms  0.975 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.483 ms  1.193 ms  1.303 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.148 ms  1.245 ms  1.345 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.203 ms  4.363 ms  4.346 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.417 ms  4.409 ms  4.389 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.657 ms  7.640 ms  7.580 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.568 ms  20.927 ms  7.580 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.925 ms  7.730 ms  7.885 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.831 ms  7.884 ms  7.973 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.109 ms  8.164 ms  8.208 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  287.147 ms  286.258 ms  286.051 ms
+15  * * *
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  272.511 ms  272.522 ms  272.532 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  276.637 ms  276.526 ms  276.600 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  262.370 ms  261.837 ms  262.495 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  271.870 ms  271.414 ms  271.493 ms
+20  if-ae-16-2.tcore1.SVW-Singapore.as6453.net (180.87.12.226)  271.635 ms  271.345 ms  270.577 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  270.803 ms  271.058 ms  271.004 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  258.962 ms  257.989 ms  258.108 ms
+23  120.29.215.166 (120.29.215.166)  295.270 ms  295.510 ms  295.391 ms
+24  103.23.181.154 (103.23.181.154)  286.969 ms  286.746 ms  286.615 ms
+25  202.80.112.114 (202.80.112.114)  287.075 ms  287.692 ms  287.456 ms
+26  202.80.112.186 (202.80.112.186)  287.738 ms  287.073 ms  288.539 ms
+27  ns1.indoregistrar.com (202.80.112.80)  292.768 ms  292.343 ms  292.864 ms
+
+
+Fri 28 Apr 08:00:20 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.117 ms  1.483 ms  1.902 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.458 ms  0.760 ms  0.749 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.310 ms  1.289 ms  1.277 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.436 ms  1.302 ms  1.534 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.298 ms  1.428 ms  1.523 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.220 ms  10.944 ms  10.956 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  11.053 ms  11.045 ms  11.029 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  14.099 ms  14.088 ms  7.493 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  14.233 ms  14.532 ms  14.517 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  14.508 ms  14.429 ms  7.507 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  14.699 ms  7.694 ms  7.752 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.026 ms  8.011 ms  7.886 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  275.908 ms  272.415 ms  272.441 ms
+15  if-ae-2-2.tcore2.L78-London.as6453.net (80.231.131.1)  259.538 ms  260.128 ms  259.147 ms
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  267.392 ms  267.236 ms  267.285 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  275.288 ms  275.452 ms  275.177 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  257.227 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (80.231.217.30)  281.403 ms  285.124 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  287.139 ms  290.481 ms  279.854 ms
+20  if-ae-16-2.tcore1.SVW-Singapore.as6453.net (180.87.12.226)  286.626 ms  271.228 ms  270.577 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  270.408 ms  282.092 ms  273.133 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  274.474 ms  265.180 ms  271.812 ms
+23  120.29.215.166 (120.29.215.166)  281.928 ms  292.935 ms  281.845 ms
+24  103.23.181.154 (103.23.181.154)  288.489 ms  281.245 ms  288.162 ms
+25  202.80.112.114 (202.80.112.114)  287.640 ms  288.063 ms  291.177 ms
+26  202.80.112.186 (202.80.112.186)  283.712 ms  286.995 ms  288.151 ms
+27  ns1.indoregistrar.com (202.80.112.80)  285.205 ms  283.277 ms  288.782 ms
+
+
+Fri 28 Apr 09:00:12 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.162 ms  1.300 ms  1.710 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.617 ms  1.073 ms  1.067 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.046 ms  1.038 ms  1.022 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.416 ms  1.147 ms  1.251 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.105 ms  1.167 ms  1.282 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.662 ms  4.403 ms  4.533 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.521 ms  4.510 ms  4.499 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.729 ms  7.565 ms  7.699 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.687 ms  7.670 ms  7.669 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.653 ms  7.541 ms  7.542 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.842 ms  7.714 ms  7.884 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  7.939 ms  8.139 ms  8.119 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  275.605 ms  275.743 ms  275.766 ms
+15  if-ae-2-2.tcore2.L78-London.as6453.net (80.231.131.1)  269.673 ms  270.950 ms  269.655 ms
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  273.325 ms  273.378 ms  273.239 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  275.924 ms  276.034 ms  276.019 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  267.795 ms  262.590 ms  272.601 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  275.291 ms  277.088 ms  281.026 ms
+20  if-ina-2.tcore2.SVW-Singapore.as6453.net (180.87.12.226)  273.643 ms  274.599 ms  276.627 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  283.108 ms  268.269 ms  274.187 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  266.997 ms  262.296 ms  241.777 ms
+23  120.29.215.166 (120.29.215.166)  272.982 ms  272.945 ms  265.984 ms
+24  103.23.181.154 (103.23.181.154)  262.358 ms  277.539 ms  268.924 ms
+25  202.80.112.114 (202.80.112.114)  278.649 ms  267.512 ms  279.283 ms
+26  202.80.112.186 (202.80.112.186)  276.734 ms  264.034 ms  265.842 ms
+27  ns1.indoregistrar.com (202.80.112.80)  292.997 ms  288.244 ms  291.999 ms
+
+
+Fri 28 Apr 14:00:26 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.170 ms  1.569 ms  1.984 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.471 ms  0.506 ms  0.549 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.133 ms  1.210 ms  1.185 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.438 ms  1.237 ms  1.506 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.203 ms  1.308 ms  1.421 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.394 ms  4.310 ms  4.421 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.536 ms  8.044 ms  7.804 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.024 ms  7.999 ms  7.981 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.982 ms  7.968 ms  7.954 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.923 ms  8.063 ms  7.924 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.238 ms  8.111 ms  8.306 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.434 ms  8.587 ms  8.576 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  289.825 ms * *
+15  if-ae-2-2.tcore2.L78-London.as6453.net (80.231.131.1)  281.549 ms  281.016 ms *
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  286.943 ms  286.760 ms  286.861 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  274.837 ms  294.331 ms  274.629 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  302.312 ms  283.317 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (80.231.217.30)  290.626 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  286.311 ms  284.257 ms  281.909 ms
+20  if-ina-2.tcore2.SVW-Singapore.as6453.net (180.87.12.226)  287.269 ms  286.062 ms  287.826 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  292.050 ms  293.485 ms  285.030 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  280.537 ms  283.942 ms  282.669 ms
+23  120.29.215.166 (120.29.215.166)  304.996 ms  305.760 ms  300.155 ms
+24  103.23.181.154 (103.23.181.154)  308.742 ms  309.045 ms  311.476 ms
+25  202.80.112.114 (202.80.112.114)  313.443 ms  315.016 ms  315.156 ms
+26  202.80.112.186 (202.80.112.186)  306.471 ms  304.452 ms  305.817 ms
+27  ns1.indoregistrar.com (202.80.112.80)  295.388 ms  306.422 ms  304.618 ms
+
+
+Fri 28 Apr 15:00:18 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.246 ms  1.421 ms  1.800 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.349 ms  0.340 ms  1.123 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.123 ms  1.103 ms  1.078 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.330 ms  1.239 ms  1.024 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.151 ms  1.312 ms  1.177 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.098 ms  4.426 ms  4.262 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.399 ms  4.392 ms  4.374 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.253 ms  8.237 ms  8.225 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.487 ms  7.442 ms  7.527 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.637 ms  7.574 ms  7.604 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.030 ms  7.834 ms  8.210 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.173 ms  8.102 ms  8.017 ms
+14  * * *
+15  if-ae-2-2.tcore2.L78-London.as6453.net (80.231.131.1)  267.465 ms * *
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  279.978 ms  280.215 ms  279.897 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  265.596 ms  265.580 ms  265.378 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  276.871 ms  276.936 ms  275.120 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  275.758 ms  281.195 ms  280.192 ms
+20  if-ina-2.tcore2.SVW-Singapore.as6453.net (180.87.12.226)  281.242 ms  277.420 ms  281.725 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  283.314 ms  283.153 ms  285.646 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  277.036 ms  268.691 ms  262.629 ms
+23  120.29.215.166 (120.29.215.166)  299.996 ms  300.039 ms  298.578 ms
+24  103.23.181.154 (103.23.181.154)  306.343 ms  304.389 ms  305.161 ms
+25  202.80.112.114 (202.80.112.114)  299.573 ms  306.547 ms  298.285 ms
+26  202.80.112.186 (202.80.112.186)  296.483 ms  295.710 ms  297.663 ms
+27  ns1.indoregistrar.com (202.80.112.80)  301.831 ms  300.457 ms  299.212 ms
+
+
+Fri 28 Apr 20:00:24 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.446 ms  1.712 ms  2.145 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.322 ms  0.594 ms  0.577 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.996 ms  0.983 ms  0.960 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.274 ms  1.408 ms  1.239 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.774 ms  2.051 ms  1.867 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.210 ms  4.154 ms  4.312 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.360 ms  4.598 ms  4.765 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.877 ms  7.901 ms  7.843 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.829 ms  7.674 ms  7.787 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.691 ms  7.803 ms  7.846 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.168 ms  8.190 ms  8.720 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.073 ms  8.191 ms  8.245 ms
+14  * * *
+15  * * *
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  271.661 ms  272.474 ms  272.464 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  272.186 ms  271.584 ms  272.088 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (80.231.217.30)  270.485 ms  270.613 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  260.774 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  271.042 ms  270.704 ms  270.857 ms
+20  if-ina-2.tcore2.SVW-Singapore.as6453.net (180.87.12.226)  269.932 ms  270.574 ms  269.657 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  269.076 ms  269.839 ms  269.398 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  257.304 ms  256.555 ms  257.019 ms
+23  120.29.215.166 (120.29.215.166)  285.946 ms  285.400 ms  285.631 ms
+24  103.23.181.154 (103.23.181.154)  285.795 ms  285.162 ms  285.450 ms
+25  202.80.112.114 (202.80.112.114)  286.747 ms  287.107 ms  286.450 ms
+26  202.80.112.186 (202.80.112.186)  286.966 ms  285.724 ms  286.303 ms
+27  ns1.indoregistrar.com (202.80.112.80)  292.315 ms  291.928 ms  291.884 ms
+
+
+Fri 28 Apr 21:00:16 BST 2017
+traceroute to ez.net.id (202.80.112.80), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.180 ms  1.418 ms  1.804 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.362 ms  0.351 ms  1.087 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.083 ms  1.063 ms  1.048 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.182 ms  1.311 ms  1.422 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.254 ms  2.149 ms  1.980 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.162 ms  4.232 ms  4.248 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.482 ms  4.549 ms  4.512 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.023 ms  8.012 ms  7.990 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.973 ms  7.962 ms  7.953 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.944 ms  7.924 ms  7.920 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.297 ms  8.020 ms  8.020 ms
+12  * * *
+13  ix-ae-20-0.tcore1.LDN-London.as6453.net (195.219.83.101)  8.183 ms  8.071 ms  8.214 ms
+14  if-ae-17-2.tcore1.L78-London.as6453.net (80.231.130.129)  277.186 ms  276.986 ms  277.106 ms
+15  if-ae-2-2.tcore2.L78-London.as6453.net (80.231.131.1)  264.772 ms  264.454 ms  264.498 ms
+16  if-ae-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  272.848 ms  272.694 ms  272.782 ms
+17  if-ae-2-2.tcore1.WYN-Marseille.as6453.net (80.231.217.1)  271.971 ms  272.103 ms  272.135 ms
+18  if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (180.87.38.125)  262.742 ms if-ae-5-2.tcore1.MLV-Mumbai.as6453.net (80.231.217.30)  270.710 ms  271.318 ms
+19  if-ae-2-2.tcore2.MLV-Mumbai.as6453.net (180.87.38.2)  271.392 ms  272.051 ms  274.499 ms
+20  if-ae-16-2.tcore1.SVW-Singapore.as6453.net (180.87.12.226)  270.607 ms  271.466 ms  271.445 ms
+21  if-ae-2-2.tcore2.SVW-Singapore.as6453.net (180.87.12.2)  271.267 ms  281.246 ms  270.967 ms
+22  if-ae-20-2.tcore1.SVQ-Singapore.as6453.net (180.87.96.21)  269.452 ms  266.134 ms  257.649 ms
+23  120.29.215.166 (120.29.215.166)  287.919 ms  287.187 ms  286.585 ms
+24  103.23.181.154 (103.23.181.154)  287.139 ms  286.863 ms  286.991 ms
+25  202.80.112.114 (202.80.112.114)  288.348 ms  288.008 ms  287.995 ms
+26  202.80.112.186 (202.80.112.186)  288.374 ms  287.009 ms  287.621 ms
+27  ns1.indoregistrar.com (202.80.112.80)  294.756 ms  295.470 ms  294.506 ms
+
+
