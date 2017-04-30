@@ -215,3 +215,171 @@ traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
 18  * 186.1.192.114 (186.1.192.114)  143.065 ms  140.161 ms
 
 
+Sat 29 Apr 02:00:04 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.069 ms  1.409 ms  1.808 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.410 ms  0.963 ms  0.954 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.039 ms  1.024 ms  1.008 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.159 ms  1.421 ms  1.270 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.128 ms  1.237 ms  1.343 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.267 ms  4.284 ms  4.271 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.665 ms  4.656 ms  4.641 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.544 ms  7.532 ms  7.521 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.389 ms  7.417 ms  7.539 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.514 ms  7.495 ms  7.473 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.606 ms  7.445 ms  7.502 ms
+12  ldn-bb2-link.telia.net (80.91.247.93)  7.592 ms ldn-bb3-link.telia.net (80.91.246.144)  7.521 ms ldn-bb2-link.telia.net (213.155.132.196)  7.529 ms
+13  ash-bb3-link.telia.net (213.155.134.233)  82.238 ms ash-bb3-link.telia.net (80.91.246.68)  82.428 ms ash-bb4-link.telia.net (213.248.65.98)  82.028 ms
+14  mai-b2-link.telia.net (62.115.143.157)  109.036 ms  109.124 ms mai-b2-link.telia.net (62.115.143.151)  112.929 ms
+15  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  159.157 ms mai-b2-link.telia.net (62.115.133.42)  107.593 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  159.728 ms
+16  186.1.193.114 (186.1.193.114)  154.116 ms *  155.959 ms
+17  186.1.193.114 (186.1.193.114)  154.693 ms * 186.1.192.114 (186.1.192.114)  146.553 ms
+
+
+Sat 29 Apr 03:00:03 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.091 ms  1.421 ms  1.810 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.531 ms  0.520 ms  0.504 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.038 ms  1.018 ms  0.999 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.211 ms  1.269 ms  1.416 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.161 ms  1.211 ms  1.313 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.120 ms  4.366 ms  4.350 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.404 ms  4.492 ms  4.369 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.942 ms  7.926 ms  7.907 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.543 ms  7.875 ms  7.851 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.822 ms  7.803 ms  7.786 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.782 ms  7.450 ms  7.463 ms
+12  ldn-bb3-link.telia.net (80.91.248.217)  7.538 ms ldn-bb2-link.telia.net (80.91.249.181)  7.487 ms ldn-bb3-link.telia.net (213.155.136.74)  7.513 ms
+13  ash-bb3-link.telia.net (62.115.141.86)  84.156 ms ash-bb3-link.telia.net (80.91.249.101)  86.142 ms ash-bb3-link.telia.net (62.115.141.86)  84.314 ms
+14  mai-b2-link.telia.net (62.115.143.161)  109.572 ms ash-bb4-link.telia.net (62.115.137.108)  80.601 ms mai-b2-link.telia.net (62.115.143.157)  109.090 ms
+15  * nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  143.193 ms  142.930 ms
+16  186.1.193.114 (186.1.193.114)  145.702 ms *  150.402 ms
+17  * 186.1.192.114 (186.1.192.114)  138.724 ms *
+
+
+Sat 29 Apr 08:00:06 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.921 ms  1.278 ms  1.686 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.285 ms  0.279 ms  0.566 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.967 ms  0.962 ms  0.912 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.285 ms  1.101 ms  1.343 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.169 ms  1.243 ms  1.377 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.171 ms  4.231 ms  4.457 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.447 ms  4.432 ms  4.409 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  10.033 ms  10.289 ms  10.266 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.546 ms  12.069 ms  12.091 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.691 ms  7.659 ms  7.594 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.617 ms  7.606 ms  7.591 ms
+12  ldn-bb3-link.telia.net (80.91.248.217)  7.716 ms ldn-bb2-link.telia.net (80.91.246.114)  35.581 ms ldn-bb3-link.telia.net (213.155.136.74)  7.659 ms
+13  ash-bb4-link.telia.net (213.248.65.210)  84.394 ms ash-bb3-link.telia.net (80.91.246.68)  84.431 ms ash-bb4-link.telia.net (62.115.124.140)  81.136 ms
+14  mai-b2-link.telia.net (62.115.133.40)  111.662 ms mai-b2-link.telia.net (62.115.143.159)  107.957 ms mai-b2-link.telia.net (62.115.133.44)  108.963 ms
+15  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  143.078 ms mai-b2-link.telia.net (62.115.143.161)  113.216 ms  113.199 ms
+16  186.1.193.114 (186.1.193.114)  149.146 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  168.779 ms 186.1.193.114 (186.1.193.114)  148.482 ms
+17  186.1.193.114 (186.1.193.114)  148.988 ms  149.283 ms 186.1.192.114 (186.1.192.114)  143.017 ms
+
+
+Sat 29 Apr 09:00:05 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.065 ms  1.419 ms  1.809 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.519 ms  0.502 ms  0.494 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.991 ms  0.970 ms  0.948 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.112 ms  1.376 ms  1.211 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.442 ms  1.547 ms  1.636 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  9.580 ms  4.350 ms  4.553 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.675 ms  5.660 ms  5.425 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.703 ms  7.681 ms  7.672 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.646 ms  7.450 ms  7.623 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.617 ms  7.599 ms  7.589 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.562 ms  7.450 ms  7.405 ms
+12  ldn-bb3-link.telia.net (213.155.136.74)  12.029 ms ldn-bb2-link.telia.net (80.91.249.181)  10.873 ms ldn-bb3-link.telia.net (80.91.247.91)  7.520 ms
+13  ash-bb4-link.telia.net (62.115.124.140)  79.108 ms ash-bb3-link.telia.net (62.115.124.126)  84.382 ms ash-bb3-link.telia.net (62.115.124.130)  84.368 ms
+14  mai-b2-link.telia.net (62.115.133.46)  105.331 ms mai-b2-link.telia.net (62.115.133.44)  107.991 ms mai-b2-link.telia.net (62.115.143.155)  108.573 ms
+15  mai-b2-link.telia.net (62.115.133.40)  109.393 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  140.269 ms  137.439 ms
+16  186.1.193.114 (186.1.193.114)  147.360 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  134.655 ms 186.1.193.114 (186.1.193.114)  143.835 ms
+17  186.1.192.114 (186.1.192.114)  136.164 ms 186.1.193.114 (186.1.193.114)  147.107 ms 186.1.192.114 (186.1.192.114)  137.817 ms
+
+
+Sat 29 Apr 14:00:05 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.493 ms  1.588 ms  1.873 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.279 ms  1.163 ms  1.124 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.324 ms  1.297 ms  1.264 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.451 ms  1.196 ms  1.458 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.418 ms  1.134 ms  1.211 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.286 ms  4.353 ms  4.335 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.406 ms  4.424 ms  4.413 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.639 ms  7.867 ms  7.851 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.840 ms  12.361 ms  7.607 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.660 ms  7.664 ms  7.652 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.000 ms  8.529 ms  7.708 ms
+12  ldn-bb2-link.telia.net (213.155.132.196)  7.840 ms ldn-bb2-link.telia.net (80.91.246.146)  7.891 ms ldn-bb3-link.telia.net (80.91.247.91)  7.820 ms
+13  ash-bb4-link.telia.net (62.115.141.92)  80.312 ms ash-bb3-link.telia.net (62.115.124.130)  85.078 ms ash-bb4-link.telia.net (62.115.116.66)  81.269 ms
+14  mai-b2-link.telia.net (62.115.143.161)  110.133 ms mai-b2-link.telia.net (62.115.143.159)  106.772 ms ash-bb3-link.telia.net (62.115.141.244)  85.655 ms
+15  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  138.301 ms  141.263 ms  143.156 ms
+16  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  144.115 ms  143.845 ms  144.048 ms
+17  186.1.192.114 (186.1.192.114)  142.399 ms 186.1.193.114 (186.1.193.114)  151.859 ms 186.1.192.114 (186.1.192.114)  143.837 ms
+
+
+Sat 29 Apr 15:00:04 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.878 ms  1.290 ms  1.709 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.244 ms  0.699 ms  0.676 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.912 ms  0.962 ms  0.922 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.180 ms  1.279 ms  1.347 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.484 ms  1.312 ms  1.159 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.371 ms  4.641 ms  4.492 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.712 ms  4.590 ms  4.687 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.994 ms  7.989 ms  7.969 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.005 ms  7.932 ms  7.972 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.962 ms  7.976 ms  7.954 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.933 ms  7.924 ms  7.850 ms
+12  ldn-bb2-link.telia.net (80.91.246.114)  8.752 ms ldn-bb2-link.telia.net (213.155.132.196)  8.744 ms ldn-bb2-link.telia.net (80.91.249.181)  8.729 ms
+13  ash-bb3-link.telia.net (213.155.134.235)  86.226 ms ash-bb3-link.telia.net (62.115.124.128)  88.140 ms ash-bb4-link.telia.net (80.91.251.209)  82.652 ms
+14  mai-b2-link.telia.net (62.115.133.40)  111.254 ms mai-b2-link.telia.net (62.115.143.161)  113.064 ms mai-b2-link.telia.net (62.115.133.40)  111.196 ms
+15  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  141.566 ms mai-b2-link.telia.net (62.115.143.157)  112.699 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  144.455 ms
+16  186.1.193.114 (186.1.193.114)  151.607 ms *  155.280 ms
+17  186.1.192.114 (186.1.192.114)  143.761 ms  145.769 ms  143.691 ms
+
+
+Sat 29 Apr 20:00:06 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.095 ms  1.369 ms  1.785 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.356 ms  0.346 ms  0.943 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.036 ms  0.978 ms  0.977 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  4.903 ms  2.210 ms  4.901 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.017 ms  1.147 ms  1.206 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.182 ms  4.279 ms  4.271 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.810 ms  4.789 ms  4.438 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.749 ms  7.734 ms  7.724 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.704 ms  7.686 ms  7.674 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.659 ms  7.763 ms  7.493 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.738 ms  7.727 ms  7.711 ms
+12  ldn-bb2-link.telia.net (80.91.247.93)  7.703 ms ldn-bb2-link.telia.net (80.91.249.181)  7.573 ms ldn-bb2-link.telia.net (80.91.246.114)  7.508 ms
+13  nyk-bb4-link.telia.net (62.115.124.166)  81.021 ms * nyk-bb4-link.telia.net (62.115.135.110)  81.471 ms
+14  ash-bb3-link.telia.net (62.115.137.88)  82.683 ms mai-b2-link.telia.net (62.115.133.42)  109.080 ms mai-b2-link.telia.net (62.115.143.157)  108.995 ms
+15  mai-b2-link.telia.net (62.115.133.42)  107.650 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  -382.860 ms mai-b2-link.telia.net (62.115.143.155)  109.280 ms
+16  186.1.193.114 (186.1.193.114)  -373.147 ms  -375.915 ms  -378.514 ms
+17  186.1.192.114 (186.1.192.114)  -378.530 ms 186.1.193.114 (186.1.193.114)  -373.413 ms  -372.649 ms
+
+
+Sat 29 Apr 21:00:05 BST 2017
+traceroute to 186.1.192.114 (186.1.192.114), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.019 ms  1.444 ms  1.821 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.334 ms  0.406 ms  0.388 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.981 ms  1.020 ms  1.023 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.294 ms  1.159 ms  1.377 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.093 ms  1.220 ms  1.286 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.072 ms  4.294 ms  4.318 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.303 ms  4.424 ms  4.412 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.677 ms  7.665 ms  7.648 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.560 ms  7.445 ms  7.491 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.593 ms  7.707 ms  7.562 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.553 ms  7.436 ms  7.457 ms
+12  ldn-bb2-link.telia.net (80.91.247.93)  7.446 ms ldn-bb2-link.telia.net (80.91.246.114)  7.434 ms ldn-bb2-link.telia.net (213.155.136.76)  7.496 ms
+13  ash-bb3-link.telia.net (62.115.124.126)  84.123 ms ash-bb4-link.telia.net (62.115.141.94)  79.225 ms ash-bb4-link.telia.net (80.91.251.209)  80.880 ms
+14  mai-b2-link.telia.net (62.115.133.44)  106.460 ms mai-b2-link.telia.net (62.115.143.159)  105.282 ms mai-b2-link.telia.net (62.115.133.46)  101.408 ms
+15  nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  141.648 ms  141.768 ms mai-b2-link.telia.net (62.115.143.161)  111.379 ms
+16  186.1.193.114 (186.1.193.114)  145.756 ms  145.650 ms nationaltelecom-ic-318376-mai-b2.c.telia.net (62.115.148.193)  143.815 ms
+17  186.1.192.114 (186.1.192.114)  138.163 ms  141.405 ms  144.846 ms
+
+
