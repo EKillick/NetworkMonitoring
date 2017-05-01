@@ -1,0 +1,170 @@
+--2017-05-01 22:02:35--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  496K 0s
+    50K .......... .......... .......... .......... ..........100% 1016K 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:02:36 (667 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:02:40--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  538K 0s
+    50K .......... .......... .......... .......... ..........100% 95.1M 0s
+   100K                                                       100% 0.00 =0.09s
+
+2017-05-01 22:02:41 (1.04 MB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:02:45--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  530K 0s
+    50K .......... .......... .......... .......... ..........100% 1.06M 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:02:46 (713 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:02:50--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  554K 0s
+    50K .......... .......... .......... .......... ..........100% 71.9M 0s
+   100K                                                       100% 0.00 =0.09s
+
+2017-05-01 22:02:51 (1.07 MB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:02:55--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  497K 0s
+    50K .......... .......... .......... .......... ..........100%  129M 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:02:56 (990 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:03:01--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  500K 0s
+    50K .......... .......... .......... .......... ..........100%  176M 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:03:01 (997 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:03:06--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  485K 0s
+    50K .......... .......... .......... .......... ..........100%  994K 0s
+   100K                                                       100% 0.00 =0.2s
+
+2017-05-01 22:03:07 (651 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:03:11--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  462K 0s
+    50K .......... .......... .......... .......... ..........100%  191M 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:03:12 (922 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:03:16--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  511K 0s
+    50K .......... .......... .......... .......... ..........100% 1.00M 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:03:17 (683 KB/s) - ‘/dev/null’ saved [102400]
+
+--2017-05-01 22:03:22--  ftp://bks-speedtest-1.tele2.net/100KB.zip
+           => ‘/dev/null’
+Resolving bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)... 90.130.74.113, 2a00:800:1010:9::2
+Connecting to bks-speedtest-1.tele2.net (bks-speedtest-1.tele2.net)|90.130.74.113|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD not needed.
+==> SIZE 100KB.zip ... 102400
+==> PASV ... done.    ==> RETR 100KB.zip ... done.
+Length: 102400 (100K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 50%  501K 0s
+    50K .......... .......... .......... .......... ..........100% 1011K 0s
+   100K                                                       100% 0.00 =0.1s
+
+2017-05-01 22:03:22 (670 KB/s) - ‘/dev/null’ saved [102400]
+
