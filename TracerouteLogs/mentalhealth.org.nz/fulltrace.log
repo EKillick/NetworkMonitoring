@@ -466,3 +466,211 @@ traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
 22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  266.274 ms  264.512 ms  264.438 ms
 
 
+Sun 30 Apr 02:01:03 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.236 ms  1.491 ms  1.932 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.466 ms  1.151 ms  1.139 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.130 ms  1.114 ms  1.157 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.720 ms  1.782 ms  1.473 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.156 ms  1.318 ms  1.221 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.343 ms  4.430 ms  4.911 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.852 ms  5.799 ms  5.909 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.997 ms  8.132 ms  8.032 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.012 ms  7.933 ms  7.978 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.976 ms  8.045 ms  8.035 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.253 ms  8.020 ms  8.013 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  87.187 ms  85.794 ms  85.692 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  81.573 ms  83.588 ms  83.618 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  144.305 ms  142.427 ms  142.377 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  156.623 ms  149.354 ms  149.444 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  144.948 ms  144.686 ms  143.030 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  271.207 ms  271.587 ms  270.891 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  272.928 ms  271.493 ms  271.436 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  271.054 ms  270.978 ms  272.658 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  274.721 ms  274.777 ms  272.859 ms
+21  119.47.127.137 (119.47.127.137)  273.376 ms  275.334 ms  275.440 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  274.797 ms  273.033 ms  272.951 ms
+
+
+Sun 30 Apr 03:00:53 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.021 ms  1.417 ms  1.853 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.354 ms  0.558 ms  0.549 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.043 ms  0.994 ms  0.978 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.496 ms  1.199 ms  1.599 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.372 ms  1.395 ms  1.132 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.252 ms  4.472 ms  4.407 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.629 ms  4.737 ms  4.689 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.743 ms  7.735 ms  7.718 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  23.082 ms  10.885 ms  23.124 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.885 ms  7.868 ms  7.856 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.359 ms  8.031 ms  8.063 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  83.221 ms  76.564 ms  76.560 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  83.714 ms  83.929 ms  82.071 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  149.861 ms  150.014 ms  150.176 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  153.498 ms  145.084 ms  153.062 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  143.738 ms  143.970 ms  144.042 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  275.260 ms  275.552 ms  273.394 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  274.053 ms  274.348 ms  273.918 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  275.647 ms  275.580 ms  273.802 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  276.020 ms  276.043 ms  277.673 ms
+21  119.47.127.137 (119.47.127.137)  277.569 ms  277.474 ms  278.150 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  276.107 ms  275.832 ms  277.178 ms
+
+
+Sun 30 Apr 08:00:49 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.040 ms  1.434 ms  1.854 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.438 ms  0.663 ms  0.647 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.147 ms  1.100 ms  1.085 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.255 ms  1.523 ms  1.351 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.168 ms  1.402 ms  1.263 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.191 ms  4.157 ms  4.105 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.132 ms  4.332 ms  4.344 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.545 ms  7.702 ms  7.694 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.674 ms  7.666 ms  7.652 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.646 ms  7.631 ms  7.621 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  40.469 ms  39.974 ms  39.619 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.165 ms  75.099 ms  81.079 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  100.151 ms  95.306 ms  95.289 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  137.304 ms  137.333 ms  138.942 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  149.485 ms  146.592 ms  149.571 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.620 ms  138.493 ms  139.383 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  262.143 ms  262.135 ms  262.240 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  262.210 ms  262.441 ms  264.372 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  264.045 ms  264.169 ms  265.340 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  264.280 ms  264.367 ms  266.029 ms
+21  119.47.127.137 (119.47.127.137)  265.053 ms  266.801 ms  266.615 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  264.613 ms  266.243 ms  266.253 ms
+
+
+Sun 30 Apr 09:00:46 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.277 ms  1.826 ms  1.991 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.338 ms  0.731 ms  0.719 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.147 ms  1.122 ms  1.107 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.655 ms  1.631 ms  1.628 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.031 ms  1.577 ms  1.545 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.214 ms  4.446 ms  4.504 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  6.942 ms  6.928 ms  6.917 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.758 ms  7.714 ms  7.729 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.850 ms  7.766 ms  7.748 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.804 ms  7.876 ms  7.946 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  32.813 ms  32.416 ms  28.608 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  80.644 ms  77.328 ms  77.132 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  82.407 ms  82.476 ms  80.661 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  142.380 ms  140.672 ms  140.688 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  144.303 ms  142.429 ms  144.898 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  143.027 ms  141.681 ms  143.050 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  268.744 ms  268.825 ms  270.603 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  268.973 ms  269.204 ms  270.732 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  270.633 ms  269.067 ms  272.016 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  271.297 ms  271.241 ms  272.906 ms
+21  119.47.127.137 (119.47.127.137)  274.187 ms  273.699 ms  273.732 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  272.919 ms  270.821 ms  270.701 ms
+
+
+Sun 30 Apr 14:00:55 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.007 ms  1.523 ms  1.853 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.438 ms  0.433 ms  0.424 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.054 ms  1.039 ms  1.028 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  15.188 ms  2.277 ms  16.140 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  16.124 ms  1.085 ms  16.120 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  18.894 ms  16.497 ms  16.486 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  18.381 ms  4.371 ms  4.337 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  23.503 ms  23.655 ms  23.469 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.439 ms  18.816 ms  7.452 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  15.403 ms  7.505 ms  12.561 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  26.248 ms  22.992 ms  22.374 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.086 ms  73.557 ms  75.520 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  78.645 ms  80.329 ms  80.354 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  137.282 ms  138.846 ms  139.003 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  146.747 ms  142.335 ms  142.348 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.704 ms  137.977 ms  137.834 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  262.098 ms  263.964 ms  262.604 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  264.609 ms  263.355 ms  262.612 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  262.393 ms  262.328 ms  262.447 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  264.561 ms  266.295 ms  266.985 ms
+21  119.47.127.137 (119.47.127.137)  266.970 ms  267.186 ms  270.371 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  266.414 ms  266.362 ms  264.624 ms
+
+
+Sun 30 Apr 15:00:38 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.332 ms  1.716 ms  2.144 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.345 ms  0.567 ms  0.557 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.084 ms  1.066 ms  0.992 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.449 ms  1.297 ms  1.174 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.396 ms  2.059 ms  2.179 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.153 ms  4.221 ms  4.209 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.192 ms  4.408 ms  4.388 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.609 ms  7.596 ms  7.585 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.568 ms  7.562 ms  7.542 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.372 ms  7.509 ms  7.570 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.800 ms  7.653 ms  7.689 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.132 ms  79.499 ms  75.123 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  78.601 ms  80.348 ms  80.071 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  143.955 ms  143.981 ms  144.004 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  150.701 ms  150.554 ms  138.992 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.392 ms  139.406 ms  138.027 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  262.184 ms  262.148 ms  262.421 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  262.971 ms  262.287 ms  264.156 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  264.079 ms  264.031 ms  262.330 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  266.276 ms  266.231 ms  264.319 ms
+21  119.47.127.137 (119.47.127.137)  265.777 ms  265.852 ms  268.914 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  267.202 ms  264.532 ms  264.648 ms
+
+
+Sun 30 Apr 20:07:21 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  3.456 ms  2.771 ms  2.751 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.250 ms  2.640 ms  2.622 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.618 ms  2.577 ms  2.500 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.483 ms  1.271 ms  1.360 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.475 ms  1.187 ms  1.285 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.376 ms  4.526 ms  5.198 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.177 ms  5.171 ms  5.143 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.496 ms  8.489 ms  8.470 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.452 ms  7.786 ms  7.937 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.929 ms  7.923 ms  7.912 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  22.575 ms  22.104 ms  17.984 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.891 ms  76.052 ms  77.861 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  85.266 ms  81.417 ms  83.186 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  143.851 ms  144.081 ms  141.992 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  145.646 ms  143.999 ms  143.949 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  142.842 ms  144.718 ms  144.699 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  271.500 ms  273.174 ms  273.414 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  271.762 ms  271.752 ms  271.462 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  271.601 ms  271.833 ms  271.631 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  275.632 ms  273.712 ms  275.519 ms
+21  119.47.127.137 (119.47.127.137)  274.556 ms  276.722 ms  274.316 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  273.929 ms  273.865 ms  276.045 ms
+
+
+Sun 30 Apr 21:06:51 BST 2017
+traceroute to mentalhealth.org.nz (112.109.77.153), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.908 ms  1.951 ms  1.948 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.413 ms  1.826 ms  1.812 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.799 ms  1.819 ms  1.785 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.779 ms  1.766 ms  1.748 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.697 ms  1.684 ms  1.668 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.326 ms  4.733 ms  4.589 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.759 ms  4.742 ms  4.676 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.309 ms  8.192 ms  8.278 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  46.777 ms  46.760 ms  8.091 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.902 ms  8.058 ms  8.244 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  19.476 ms  19.384 ms  13.743 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.159 ms  78.830 ms  77.137 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  88.610 ms  84.728 ms  84.682 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  145.785 ms  143.952 ms  145.629 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  149.462 ms  147.896 ms  148.670 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  144.604 ms  146.219 ms  144.561 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  274.763 ms  276.878 ms  276.632 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  277.084 ms  275.130 ms  274.955 ms
+19  bundle-12.bdr04.alb01.akl.vocus.net.nz (114.31.202.51)  276.914 ms  276.973 ms  275.045 ms
+20  ip-61.87.45.175.VOCUS.net.au (175.45.87.61)  279.050 ms  277.575 ms  279.104 ms
+21  119.47.127.137 (119.47.127.137)  279.825 ms  277.944 ms  280.305 ms
+22  ip-112-109-77-153.webhost.co.nz (112.109.77.153)  277.556 ms  279.176 ms  279.150 ms
+
+

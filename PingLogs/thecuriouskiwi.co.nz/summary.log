@@ -622,3 +622,27 @@ Sun 30 Apr 00:16:44 BST 2017
 rtt min/avg/max/mdev = 262.327/267.971/293.080/3.777 ms
 
 
+Sun 30 Apr 06:16:45 BST 2017
+--- thecuriouskiwi.co.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99266ms
+rtt min/avg/max/mdev = 262.300/269.293/275.500/4.440 ms
+
+
+Sun 30 Apr 12:16:45 BST 2017
+--- thecuriouskiwi.co.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99010ms
+rtt min/avg/max/mdev = 262.286/262.500/263.145/0.710 ms
+
+
+Sun 30 Apr 18:22:58 BST 2017
+--- thecuriouskiwi.co.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99124ms
+rtt min/avg/max/mdev = 266.360/272.290/649.288/38.234 ms
+
+
+Mon  1 May 00:16:54 BST 2017
+--- thecuriouskiwi.co.nz ping statistics ---
+100 packets transmitted, 99 received, 1% packet loss, time 99011ms
+rtt min/avg/max/mdev = 262.317/263.272/299.616/3.790 ms
+
+

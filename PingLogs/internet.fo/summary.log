@@ -622,3 +622,27 @@ Sun 30 Apr 00:08:23 BST 2017
 rtt min/avg/max/mdev = 40.358/40.974/46.636/0.697 ms
 
 
+Sun 30 Apr 06:08:26 BST 2017
+--- internet.fo ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99088ms
+rtt min/avg/max/mdev = 39.766/40.035/40.509/0.306 ms
+
+
+Sun 30 Apr 12:08:24 BST 2017
+--- internet.fo ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99093ms
+rtt min/avg/max/mdev = 39.758/40.161/46.320/0.831 ms
+
+
+Sun 30 Apr 18:14:36 BST 2017
+--- internet.fo ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99137ms
+rtt min/avg/max/mdev = 40.345/41.183/46.867/0.894 ms
+
+
+Mon  1 May 00:08:33 BST 2017
+--- internet.fo ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99081ms
+rtt min/avg/max/mdev = 39.791/40.219/43.802/0.595 ms
+
+

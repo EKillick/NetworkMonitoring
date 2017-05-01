@@ -622,3 +622,27 @@ Sun 30 Apr 00:20:05 BST 2017
 rtt min/avg/max/mdev = 351.737/354.224/357.428/1.566 ms
 
 
+Sun 30 Apr 06:20:05 BST 2017
+--- waggagolf.com.au ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99148ms
+rtt min/avg/max/mdev = 260.907/350.024/356.566/18.001 ms
+
+
+Sun 30 Apr 12:20:05 BST 2017
+--- waggagolf.com.au ping statistics ---
+100 packets transmitted, 96 received, 4% packet loss, time 99066ms
+rtt min/avg/max/mdev = 343.372/347.750/439.809/9.594 ms
+
+
+Sun 30 Apr 18:26:19 BST 2017
+--- waggagolf.com.au ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99117ms
+rtt min/avg/max/mdev = 346.013/353.736/357.748/2.708 ms
+
+
+Mon  1 May 00:20:16 BST 2017
+--- waggagolf.com.au ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99078ms
+rtt min/avg/max/mdev = 345.980/347.240/356.264/1.485 ms
+
+
