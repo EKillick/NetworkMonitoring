@@ -4596,3 +4596,215 @@ traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
 22  weir.hosts.net.nz (210.48.94.15)  273.034 ms  274.817 ms  276.302 ms
 
 
+Mon  1 May 02:01:27 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.253 ms  2.089 ms  2.069 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.943 ms  0.922 ms  0.907 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.052 ms  0.995 ms  1.023 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.941 ms  1.915 ms  1.899 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.875 ms  1.854 ms  1.838 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.152 ms  4.358 ms  4.338 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  10.028 ms  10.075 ms  10.057 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.561 ms  7.547 ms  7.425 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.458 ms  7.533 ms  7.508 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.497 ms  7.478 ms  7.387 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.721 ms  7.845 ms  7.787 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.154 ms  73.347 ms  73.418 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  90.787 ms  78.925 ms  78.779 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  139.011 ms  137.536 ms  137.389 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  147.776 ms  148.543 ms  148.827 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.777 ms  138.129 ms  139.810 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  261.725 ms  263.244 ms  263.274 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  261.815 ms  261.848 ms  262.568 ms
+19  ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  261.381 ms ten-2-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.41)  262.961 ms ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  261.314 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  263.480 ms  265.098 ms  265.049 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  265.384 ms  263.613 ms  265.498 ms
+22  weir.hosts.net.nz (210.48.94.15)  262.043 ms  263.439 ms  261.963 ms
+
+
+Mon  1 May 03:01:10 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.006 ms  1.993 ms  1.983 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.396 ms  0.368 ms  1.840 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.840 ms  1.821 ms  1.798 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.781 ms  1.756 ms  1.741 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.673 ms  1.647 ms  1.642 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.210 ms  4.443 ms  4.259 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.411 ms  4.382 ms  4.361 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.892 ms  7.867 ms  7.837 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.497 ms  7.803 ms  7.789 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.763 ms  7.752 ms  7.730 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  41.571 ms  41.327 ms  36.583 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  74.905 ms  76.671 ms  76.653 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  109.052 ms  105.407 ms  105.516 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  146.184 ms  146.097 ms  146.075 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  142.053 ms  142.035 ms  142.013 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  142.668 ms  142.439 ms  140.623 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  268.606 ms  266.798 ms  269.075 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  268.931 ms  267.203 ms  268.927 ms
+19  ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  268.224 ms ten-2-3-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.33)  268.411 ms ten-2-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.41)  270.214 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  271.084 ms  268.876 ms  268.689 ms
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * weir.hosts.net.nz (210.48.94.15)  267.172 ms  266.988 ms
+
+
+Mon  1 May 08:01:11 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.180 ms  1.571 ms  1.968 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.643 ms  0.626 ms  0.604 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.053 ms  1.042 ms  1.018 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.444 ms  1.306 ms  1.132 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.184 ms  1.287 ms  1.384 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.444 ms  4.241 ms  4.228 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.251 ms  5.304 ms  5.227 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.351 ms  8.378 ms  8.317 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.519 ms  8.447 ms  8.430 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.506 ms  8.486 ms  8.474 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.944 ms  9.110 ms  7.889 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  73.451 ms  84.160 ms  73.454 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  88.157 ms  86.264 ms  84.912 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  137.520 ms  137.503 ms  138.958 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  139.088 ms  139.077 ms  139.106 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.772 ms  139.970 ms  139.883 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  261.620 ms  263.313 ms  263.361 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  262.044 ms  263.840 ms  263.827 ms
+19  ten-2-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.41)  264.726 ms  263.035 ms  263.017 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  263.589 ms  263.627 ms  264.422 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  266.193 ms  264.043 ms  265.563 ms
+22  weir.hosts.net.nz (210.48.94.15)  262.235 ms  263.528 ms  263.573 ms
+
+
+Mon  1 May 09:00:50 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.986 ms  1.382 ms  1.799 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.230 ms  0.492 ms  0.467 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.973 ms  0.947 ms  0.921 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.230 ms  1.074 ms  1.304 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.262 ms  1.520 ms  1.358 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.431 ms  4.210 ms  4.366 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.272 ms  4.586 ms  4.396 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.624 ms  7.611 ms  7.568 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  12.443 ms  7.504 ms  12.193 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.532 ms  7.361 ms  7.350 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.879 ms  7.784 ms  7.765 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.074 ms  75.044 ms  86.605 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  78.552 ms  78.650 ms  78.767 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  140.386 ms  140.327 ms  140.355 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  149.340 ms  149.148 ms  140.622 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  139.468 ms  139.589 ms  138.005 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  263.359 ms  263.298 ms  261.560 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  261.720 ms  263.433 ms  261.668 ms
+19  ten-2-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.41)  263.072 ms ten-2-3-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.33)  263.158 ms  263.259 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  263.578 ms  263.565 ms  265.164 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  265.438 ms  265.709 ms  265.554 ms
+22  weir.hosts.net.nz (210.48.94.15)  263.515 ms  261.900 ms  261.907 ms
+
+
+Mon  1 May 14:01:20 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.287 ms  1.651 ms  2.068 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.841 ms  0.816 ms  0.796 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.283 ms  1.255 ms  1.181 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.363 ms  1.481 ms  1.574 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.741 ms  1.534 ms  1.812 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.422 ms  4.758 ms  4.377 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.726 ms  4.713 ms  4.703 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  38.269 ms  38.052 ms  38.229 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.550 ms  14.893 ms  7.700 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.754 ms  7.828 ms  7.712 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.209 ms  7.882 ms  16.678 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.326 ms  75.701 ms  77.393 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  82.490 ms  80.629 ms  80.731 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  145.456 ms  145.282 ms  145.349 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  142.574 ms  142.560 ms  142.855 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  141.443 ms  144.417 ms  144.397 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  268.439 ms  270.140 ms  269.981 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  270.210 ms  270.085 ms  268.316 ms
+19  ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  269.770 ms ten-2-3-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.33)  267.931 ms ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  269.850 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  272.044 ms  272.029 ms  272.009 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  272.074 ms  270.360 ms  270.523 ms
+22  weir.hosts.net.nz (210.48.94.15)  270.670 ms  270.183 ms  268.057 ms
+
+
+Mon  1 May 15:01:08 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.166 ms  1.592 ms  2.025 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.514 ms  0.493 ms  0.806 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.179 ms  1.160 ms  1.147 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.558 ms  1.276 ms  1.385 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  4.903 ms  1.215 ms  1.799 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.437 ms  4.580 ms  4.562 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.626 ms  5.602 ms  5.212 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.956 ms  8.630 ms  7.920 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.908 ms  7.889 ms  8.567 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.559 ms  8.541 ms  8.529 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.478 ms  14.078 ms  13.409 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  78.588 ms  76.849 ms  78.664 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  83.958 ms  91.276 ms  91.136 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  156.967 ms  143.718 ms  156.941 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  145.553 ms  145.675 ms  145.572 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  146.094 ms  146.071 ms  146.168 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  275.544 ms  273.855 ms  273.859 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  274.188 ms  274.434 ms  275.746 ms
+19  ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  275.365 ms  273.667 ms  273.544 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  277.497 ms  275.768 ms  275.757 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  278.067 ms  276.163 ms  277.929 ms
+22  weir.hosts.net.nz (210.48.94.15)  274.082 ms  273.888 ms  273.928 ms
+
+
+Mon  1 May 20:01:20 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.861 ms  1.239 ms  1.663 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.226 ms  0.607 ms  0.574 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.993 ms  0.978 ms  0.958 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.306 ms  1.111 ms  1.359 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.928 ms  1.271 ms  1.373 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.221 ms  4.193 ms  4.333 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.321 ms  4.307 ms  4.392 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.917 ms  7.898 ms  7.881 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.861 ms  7.543 ms  7.832 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.515 ms  7.809 ms  7.798 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  32.441 ms  31.206 ms  29.516 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  85.276 ms  85.123 ms  85.247 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  82.494 ms  79.260 ms  80.974 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  138.398 ms  139.899 ms  138.250 ms
+15  * 100ge14-1.core1.lax2.he.net (72.52.92.122)  145.604 ms *
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  138.850 ms  140.603 ms  138.900 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  220.183 ms  219.772 ms  218.589 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  218.464 ms  218.329 ms  218.376 ms
+19  ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  219.492 ms  219.119 ms ten-2-3-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.33)  219.100 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  221.130 ms  219.488 ms  221.099 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  251.248 ms  249.749 ms  263.565 ms
+22  weir.hosts.net.nz (210.48.94.15)  263.322 ms  263.307 ms  261.766 ms
+
+
+Mon  1 May 21:00:54 BST 2017
+traceroute to waiotapu.co.nz (210.48.94.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.312 ms  1.737 ms  2.186 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.336 ms  0.391 ms  0.377 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.042 ms  1.015 ms  0.963 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.285 ms  1.391 ms  1.126 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.304 ms  1.447 ms  1.562 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.147 ms  4.180 ms  4.454 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.564 ms  4.581 ms  4.504 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.783 ms  7.799 ms  7.782 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.901 ms  31.857 ms  7.861 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.064 ms  7.924 ms  7.984 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.933 ms  7.960 ms  7.945 ms
+12  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.405 ms  76.432 ms  74.678 ms
+13  100ge11-2.core1.ash1.he.net (184.105.223.165)  87.626 ms  84.463 ms  84.449 ms
+14  100ge13-1.core1.lax1.he.net (184.105.80.202)  139.572 ms  150.673 ms  139.493 ms
+15  100ge14-1.core1.lax2.he.net (72.52.92.122)  141.308 ms  144.660 ms  142.994 ms
+16  vocus.10gigabitethernet5-8.core1.lax2.he.net (64.62.151.126)  140.090 ms  140.041 ms  140.126 ms
+17  bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)  265.849 ms  265.749 ms  265.753 ms
+18  bundle-200.cor01.akl05.akl.vocus.net.nz (114.31.202.46)  267.868 ms  266.200 ms  266.260 ms
+19  ten-2-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.41)  268.866 ms ten-0-0-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.123)  267.393 ms ten-2-3-0.bdr01.akl05.akl.VOCUS.net.nz (114.31.202.33)  265.585 ms
+20  as4770.cust.bdr01.akl05.akl.VOCUS.net.nz (114.31.203.118)  269.582 ms  267.795 ms  267.782 ms
+21  rtr3.nz.freeparking.co.nz (210.48.108.3)  269.635 ms  269.518 ms  269.700 ms
+22  weir.hosts.net.nz (210.48.94.15)  266.277 ms  267.733 ms  265.931 ms
+
+

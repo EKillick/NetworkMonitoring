@@ -3851,3 +3851,179 @@ traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
 18  cbpfsu6.cat.cbpf.br (152.84.253.9)  241.037 ms  241.783 ms  241.011 ms
 
 
+Mon  1 May 02:01:05 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.259 ms  2.222 ms  2.243 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.316 ms  2.140 ms  2.130 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.113 ms  2.113 ms  2.091 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.080 ms  2.059 ms  2.018 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.996 ms  1.942 ms  1.962 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.557 ms  4.192 ms  4.259 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.529 ms  4.515 ms  4.499 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.551 ms  7.602 ms  7.636 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.623 ms  7.594 ms  7.634 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  83.143 ms  83.972 ms  83.956 ms
+11  64.57.28.62 (64.57.28.62)  227.485 ms  227.928 ms  227.963 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  227.912 ms  228.373 ms  227.879 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  235.394 ms  235.536 ms  235.510 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  237.208 ms  237.199 ms  237.190 ms
+15  200.20.96.4 (200.20.96.4)  235.908 ms  235.820 ms  235.763 ms
+16  200.20.98.230 (200.20.98.230)  235.334 ms  235.405 ms  235.764 ms
+17  152.84.49.10 (152.84.49.10)  236.654 ms  236.249 ms  236.387 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  235.895 ms  235.887 ms  235.849 ms
+
+
+Mon  1 May 03:00:57 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.001 ms  1.428 ms  1.843 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.551 ms  0.540 ms  0.599 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.058 ms  1.052 ms  1.037 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.455 ms  1.332 ms  1.190 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.177 ms  1.392 ms  1.282 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.239 ms  4.433 ms  4.375 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  7.192 ms  4.882 ms  4.864 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  8.007 ms  7.987 ms  7.700 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.960 ms  7.669 ms  7.932 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  83.456 ms  83.594 ms  83.583 ms
+11  64.57.28.62 (64.57.28.62)  228.355 ms  228.321 ms  228.431 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  228.746 ms  228.660 ms  228.595 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  236.282 ms  236.110 ms  236.085 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  236.563 ms  236.601 ms  236.448 ms
+15  200.20.96.4 (200.20.96.4)  236.594 ms  236.612 ms  236.523 ms
+16  200.20.98.230 (200.20.98.230)  236.337 ms  236.359 ms  236.774 ms
+17  152.84.49.10 (152.84.49.10)  236.410 ms  236.284 ms  236.262 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  235.911 ms  235.956 ms  235.991 ms
+
+
+Mon  1 May 08:00:54 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.198 ms  1.871 ms  1.952 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.466 ms  0.736 ms  0.724 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.110 ms  1.090 ms  1.068 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.739 ms  1.729 ms  1.704 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.675 ms  1.666 ms  1.652 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.219 ms  5.149 ms  4.345 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.201 ms  4.393 ms  5.188 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.859 ms  7.878 ms  7.911 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.661 ms  8.401 ms  8.386 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  82.229 ms  83.065 ms  82.960 ms
+11  64.57.28.62 (64.57.28.62)  224.970 ms  225.384 ms  225.034 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  225.268 ms  225.217 ms  225.153 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  232.514 ms  232.467 ms  232.722 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  244.739 ms  245.084 ms  244.846 ms
+15  200.20.96.4 (200.20.96.4)  232.993 ms  233.174 ms  233.049 ms
+16  200.20.98.230 (200.20.98.230)  232.805 ms  232.714 ms  232.947 ms
+17  152.84.49.10 (152.84.49.10)  233.665 ms  232.976 ms  233.506 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  232.826 ms  232.806 ms *
+
+
+Mon  1 May 09:00:41 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.772 ms  1.762 ms  2.153 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  10.167 ms  10.239 ms  10.282 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.092 ms  1.068 ms  1.044 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.596 ms  1.567 ms  1.537 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  4.318 ms  4.022 ms  4.343 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.207 ms  4.622 ms  4.273 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.587 ms  4.578 ms  4.565 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.727 ms  7.710 ms  7.690 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.590 ms  7.549 ms  7.501 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  82.182 ms  82.170 ms  82.280 ms
+11  64.57.28.62 (64.57.28.62)  225.170 ms  225.157 ms  225.138 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  225.274 ms  225.364 ms  225.271 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  232.610 ms  232.575 ms  232.714 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  233.109 ms  233.031 ms  233.188 ms
+15  200.20.96.4 (200.20.96.4)  232.998 ms  233.793 ms  233.774 ms
+16  200.20.98.230 (200.20.98.230)  232.946 ms  232.736 ms  232.986 ms
+17  152.84.49.10 (152.84.49.10)  238.543 ms  238.638 ms  234.981 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  232.378 ms  232.465 ms  232.458 ms
+
+
+Mon  1 May 14:00:56 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.080 ms  1.484 ms  1.934 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.684 ms  0.666 ms  0.653 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.074 ms  1.053 ms  1.026 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.321 ms  1.162 ms  1.408 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  3.746 ms  3.865 ms  3.956 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.625 ms  4.615 ms  4.703 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.784 ms  4.648 ms  4.934 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  8.310 ms  8.297 ms  8.307 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  8.162 ms  8.392 ms  8.334 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.072 ms  85.545 ms  85.501 ms
+11  64.57.28.62 (64.57.28.62)  268.732 ms  268.561 ms  268.710 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  269.040 ms  269.175 ms  269.015 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  276.634 ms  276.615 ms  276.548 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  277.304 ms  277.289 ms  277.426 ms
+15  200.20.96.4 (200.20.96.4)  277.075 ms  277.185 ms  277.030 ms
+16  200.20.98.230 (200.20.98.230)  287.518 ms  276.991 ms  275.691 ms
+17  152.84.49.10 (152.84.49.10)  272.985 ms  272.966 ms  273.067 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  272.340 ms  272.905 ms  272.883 ms
+
+
+Mon  1 May 15:01:00 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.104 ms  1.513 ms  2.120 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.419 ms  0.833 ms  0.812 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.099 ms  1.081 ms  1.010 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.346 ms  3.204 ms  2.228 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.168 ms  1.254 ms  1.349 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.311 ms  4.295 ms  4.474 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.562 ms  4.584 ms  4.572 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.963 ms  8.038 ms  8.025 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.911 ms  7.995 ms  7.882 ms
+10  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  85.335 ms  85.112 ms  85.019 ms
+11  64.57.28.62 (64.57.28.62)  268.312 ms  268.216 ms  268.081 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  268.713 ms  268.214 ms  268.715 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  275.708 ms  276.002 ms  275.854 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  276.516 ms  276.284 ms  276.576 ms
+15  200.20.96.4 (200.20.96.4)  276.384 ms  276.456 ms  276.400 ms
+16  200.20.98.230 (200.20.98.230)  276.008 ms  276.462 ms  276.450 ms
+17  152.84.49.10 (152.84.49.10)  276.748 ms  276.675 ms  276.510 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  275.846 ms  276.301 ms  276.267 ms
+
+
+Mon  1 May 20:01:03 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.194 ms  2.162 ms  3.857 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  1.102 ms  2.089 ms  2.071 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  3.777 ms  3.757 ms  3.745 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.724 ms  3.687 ms  3.685 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  3.655 ms  3.640 ms  3.605 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  5.128 ms  4.175 ms  4.565 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.549 ms  4.529 ms  4.514 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.732 ms  7.719 ms  7.701 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.687 ms  7.657 ms  7.649 ms
+10  redclara-gw.lon.uk.geant.net (62.40.124.37)  192.443 ms  192.426 ms  192.399 ms
+11  rnp-br.redclara.net (200.0.204.214)  192.608 ms  192.504 ms  192.265 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  192.493 ms  192.674 ms  192.661 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  200.085 ms  200.136 ms  199.883 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  202.054 ms  202.034 ms  202.022 ms
+15  200.20.96.4 (200.20.96.4)  200.638 ms  200.418 ms  200.383 ms
+16  200.20.98.230 (200.20.98.230)  200.363 ms  200.196 ms  200.337 ms
+17  152.84.49.10 (152.84.49.10)  201.062 ms  200.970 ms  200.958 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  200.310 ms  200.917 ms  200.276 ms
+
+
+Mon  1 May 21:00:45 BST 2017
+traceroute to rederio.br (152.84.253.9), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.143 ms  1.595 ms  1.916 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.437 ms  0.417 ms  0.702 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.348 ms  1.331 ms  1.307 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.576 ms  1.202 ms  1.311 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.292 ms  1.135 ms  1.331 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.214 ms  4.291 ms  4.276 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.338 ms  4.429 ms  4.395 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  8.131 ms  8.118 ms  8.105 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.769 ms  7.756 ms  7.737 ms
+10  redclara-gw.lon.uk.geant.net (62.40.124.37)  192.698 ms  192.954 ms  192.766 ms
+11  rnp-br.redclara.net (200.0.204.214)  192.820 ms  192.548 ms  192.684 ms
+12  sp2-sp.bkb.rnp.br (200.143.253.38)  193.661 ms  193.358 ms  193.364 ms
+13  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  200.381 ms  201.061 ms  201.008 ms
+14  rj-rederio.bkb.rnp.br (200.143.254.137)  201.140 ms  200.981 ms  200.998 ms
+15  200.20.96.4 (200.20.96.4)  200.859 ms  201.063 ms  200.994 ms
+16  200.20.98.230 (200.20.98.230)  200.822 ms  201.016 ms  200.653 ms
+17  152.84.49.10 (152.84.49.10)  200.638 ms  200.606 ms  200.778 ms
+18  cbpfsu6.cat.cbpf.br (152.84.253.9)  200.212 ms  200.234 ms  200.425 ms
+
+

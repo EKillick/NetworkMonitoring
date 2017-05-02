@@ -10364,3 +10364,39 @@ PING www.karibcable.com (208.94.176.10) 56(84) bytes of data.
 
 
 
+Mon  1 May 06:23:26 BST 2017
+PING www.karibcable.com (208.94.176.10) 56(84) bytes of data.
+
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 100032ms
+
+
+
+
+Mon  1 May 12:23:28 BST 2017
+PING www.karibcable.com (208.94.176.10) 56(84) bytes of data.
+
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 99357ms
+
+
+
+
+Mon  1 May 18:23:34 BST 2017
+PING www.karibcable.com (208.94.176.10) 56(84) bytes of data.
+
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 100173ms
+
+
+
+
+Tue  2 May 00:23:27 BST 2017
+PING www.karibcable.com (208.94.176.10) 56(84) bytes of data.
+
+--- www.karibcable.com ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 99297ms
+
+
+
+

@@ -1402,3 +1402,390 @@ rtt min/avg/max/mdev = 0.000/141.297/148.876/15.106 ms
 
 
 
+Mon  1 May 06:01:47 BST 2017
+PING 186.1.192.114 (186.1.192.114) 56(84) bytes of data.
+64 bytes from 186.1.192.114: icmp_seq=1 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=2 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=3 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=4 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=6 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=7 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=8 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=9 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=11 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=12 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=13 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=14 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=16 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=17 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=18 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=19 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=22 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=23 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=24 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=27 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=28 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=29 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=32 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=33 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=34 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=35 ttl=238 time=144 ms
+64 bytes from 186.1.192.114: icmp_seq=37 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=38 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=39 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=40 ttl=238 time=144 ms
+64 bytes from 186.1.192.114: icmp_seq=43 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=44 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=45 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=49 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=50 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=51 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=54 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=55 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=56 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=59 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=60 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=61 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=64 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=65 ttl=238 time=144 ms
+64 bytes from 186.1.192.114: icmp_seq=66 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=67 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=70 ttl=238 time=144 ms
+64 bytes from 186.1.192.114: icmp_seq=72 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=75 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=76 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=77 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=80 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=81 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=82 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=85 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=86 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=87 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=90 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=92 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=93 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=95 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=96 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=97 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=98 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=100 ttl=238 time=145 ms
+
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 65 received, 35% packet loss, time 99211ms
+rtt min/avg/max/mdev = 140.446/142.376/145.650/1.201 ms
+
+
+
+Mon  1 May 12:01:48 BST 2017
+PING 186.1.192.114 (186.1.192.114) 56(84) bytes of data.
+64 bytes from 186.1.192.114: icmp_seq=1 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=2 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=3 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=4 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=5 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=6 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=7 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=8 ttl=238 time=145 ms
+64 bytes from 186.1.192.114: icmp_seq=9 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=10 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=11 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=12 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=13 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=14 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=15 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=16 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=17 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=18 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=19 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=20 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=21 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=22 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=23 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=24 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=25 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=26 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=27 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=28 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=29 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=30 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=31 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=32 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=33 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=34 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=35 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=36 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=37 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=38 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=39 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=40 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=41 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=42 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=43 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=44 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=45 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=46 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=47 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=48 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=49 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=50 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=51 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=52 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=53 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=54 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=55 ttl=238 time=175 ms
+64 bytes from 186.1.192.114: icmp_seq=56 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=57 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=58 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=59 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=60 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=61 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=62 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=63 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=64 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=65 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=66 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=67 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=68 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=69 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=70 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=71 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=72 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=73 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=74 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=75 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=76 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=77 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=78 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=79 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=80 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=81 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=82 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=83 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=84 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=85 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=86 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=87 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=88 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=89 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=90 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=91 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=92 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=93 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=94 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=95 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=96 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=97 ttl=238 time=139 ms
+64 bytes from 186.1.192.114: icmp_seq=98 ttl=238 time=138 ms
+64 bytes from 186.1.192.114: icmp_seq=99 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=100 ttl=238 time=139 ms
+
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99159ms
+rtt min/avg/max/mdev = 138.686/140.110/175.569/3.683 ms
+
+
+
+Mon  1 May 18:01:46 BST 2017
+PING 186.1.192.114 (186.1.192.114) 56(84) bytes of data.
+64 bytes from 186.1.192.114: icmp_seq=2 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=3 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=4 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=5 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=6 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=7 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=8 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=9 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=10 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=11 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=12 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=13 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=14 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=15 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=16 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=17 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=18 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=20 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=21 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=22 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=23 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=24 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=25 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=26 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=27 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=28 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=29 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=30 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=31 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=32 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=33 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=34 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=35 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=36 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=37 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=38 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=39 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=40 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=41 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=42 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=43 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=44 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=45 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=46 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=47 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=48 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=49 ttl=238 time=144 ms
+64 bytes from 186.1.192.114: icmp_seq=50 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=51 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=52 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=53 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=54 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=56 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=57 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=59 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=60 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=61 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=62 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=63 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=64 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=65 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=66 ttl=238 time=140 ms
+64 bytes from 186.1.192.114: icmp_seq=67 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=68 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=69 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=70 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=71 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=72 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=73 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=74 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=75 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=76 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=77 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=78 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=79 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=81 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=82 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=83 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=84 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=85 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=86 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=87 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=88 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=89 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=90 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=91 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=92 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=93 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=94 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=95 ttl=238 time=141 ms
+64 bytes from 186.1.192.114: icmp_seq=96 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=98 ttl=238 time=143 ms
+64 bytes from 186.1.192.114: icmp_seq=99 ttl=238 time=142 ms
+64 bytes from 186.1.192.114: icmp_seq=100 ttl=238 time=141 ms
+
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 94 received, 6% packet loss, time 99092ms
+rtt min/avg/max/mdev = 140.694/142.240/144.402/0.768 ms
+
+
+
+Tue  2 May 00:01:46 BST 2017
+PING 186.1.192.114 (186.1.192.114) 56(84) bytes of data.
+64 bytes from 186.1.192.114: icmp_seq=1 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=3 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=4 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=5 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=6 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=7 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=8 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=9 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=10 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=11 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=12 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=13 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=15 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=16 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=17 ttl=238 time=145 ms
+64 bytes from 186.1.192.114: icmp_seq=18 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=19 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=20 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=22 ttl=238 time=145 ms
+64 bytes from 186.1.192.114: icmp_seq=23 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=24 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=25 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=26 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=27 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=28 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=29 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=30 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=31 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=32 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=33 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=35 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=36 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=37 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=38 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=39 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=40 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=41 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=42 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=43 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=44 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=45 ttl=238 time=149 ms
+64 bytes from 186.1.192.114: icmp_seq=46 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=47 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=48 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=49 ttl=238 time=149 ms
+64 bytes from 186.1.192.114: icmp_seq=50 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=51 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=52 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=53 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=54 ttl=238 time=150 ms
+64 bytes from 186.1.192.114: icmp_seq=55 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=56 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=57 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=58 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=59 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=60 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=61 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=62 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=63 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=64 ttl=238 time=150 ms
+64 bytes from 186.1.192.114: icmp_seq=65 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=66 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=67 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=68 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=69 ttl=238 time=149 ms
+64 bytes from 186.1.192.114: icmp_seq=70 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=71 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=72 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=73 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=74 ttl=238 time=150 ms
+64 bytes from 186.1.192.114: icmp_seq=75 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=76 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=77 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=79 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=80 ttl=238 time=149 ms
+64 bytes from 186.1.192.114: icmp_seq=81 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=82 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=83 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=84 ttl=238 time=149 ms
+64 bytes from 186.1.192.114: icmp_seq=85 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=86 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=87 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=88 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=89 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=90 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=92 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=93 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=94 ttl=238 time=148 ms
+64 bytes from 186.1.192.114: icmp_seq=96 ttl=238 time=147 ms
+64 bytes from 186.1.192.114: icmp_seq=97 ttl=238 time=146 ms
+64 bytes from 186.1.192.114: icmp_seq=98 ttl=238 time=0.000 ms
+64 bytes from 186.1.192.114: icmp_seq=99 ttl=238 time=148 ms
+
+--- 186.1.192.114 ping statistics ---
+100 packets transmitted, 92 received, 8% packet loss, time 99094ms
+rtt min/avg/max/mdev = 0.000/117.086/150.674/59.742 ms
+
+
+
