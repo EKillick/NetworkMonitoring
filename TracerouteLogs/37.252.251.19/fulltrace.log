@@ -538,3 +538,163 @@ traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
 16  customer.tigerbackbone.com (37.252.251.19)  221.348 ms  221.325 ms  226.240 ms
 
 
+Tue  2 May 02:00:12 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.386 ms  1.401 ms  1.808 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.372 ms  0.358 ms  1.186 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.173 ms  1.140 ms  1.121 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.169 ms  1.299 ms  1.383 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.108 ms  1.167 ms  1.275 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.314 ms  4.169 ms  4.154 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.415 ms  4.644 ms  4.631 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.598 ms  7.577 ms  7.561 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.582 ms  7.449 ms  7.556 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.539 ms  7.559 ms  7.541 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.812 ms  7.979 ms  8.209 ms
+12  ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  8.637 ms ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  8.111 ms ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  8.097 ms
+13  4.68.63.150 (4.68.63.150)  7.886 ms  8.126 ms  8.140 ms
+14  xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  210.614 ms xe0-1-3.santiago1.san.seabone.net (195.22.221.91)  207.455 ms xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  210.582 ms
+15  200.123.197.34 (200.123.197.34)  217.667 ms  216.903 ms  216.854 ms
+16  customer.tigerbackbone.com (37.252.251.19)  222.056 ms  216.915 ms  216.575 ms
+
+
+Tue  2 May 03:00:09 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.188 ms  1.307 ms  1.691 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.276 ms  1.071 ms  1.060 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.043 ms  1.031 ms  1.000 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.130 ms  1.215 ms  1.228 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.548 ms  1.325 ms  1.521 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.269 ms  4.788 ms  4.427 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.762 ms  4.749 ms  4.737 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.688 ms  7.709 ms  7.694 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.486 ms  7.649 ms  7.638 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.511 ms  7.406 ms  7.430 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.732 ms  7.709 ms  13.737 ms
+12  ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  7.885 ms ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  7.707 ms ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  7.856 ms
+13  4.68.63.150 (4.68.63.150)  7.873 ms  7.972 ms  7.868 ms
+14  xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  210.325 ms xe0-1-3.santiago1.san.seabone.net (195.22.221.91)  209.760 ms  212.374 ms
+15  200.123.197.34 (200.123.197.34)  221.845 ms  217.374 ms  217.060 ms
+16  customer.tigerbackbone.com (37.252.251.19)  222.376 ms  222.622 ms  217.354 ms
+
+
+Tue  2 May 08:00:11 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.798 ms  1.780 ms  2.052 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.519 ms  1.669 ms  1.650 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.643 ms  1.622 ms  1.603 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.603 ms  1.578 ms  1.546 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.536 ms  1.498 ms  1.493 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.188 ms  4.497 ms  4.740 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.728 ms  4.715 ms  4.703 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  13.103 ms  13.211 ms  13.073 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.980 ms  7.796 ms  8.504 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.045 ms  8.025 ms  8.016 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.252 ms  8.620 ms  8.033 ms
+12  ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  7.989 ms  7.877 ms ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  7.935 ms
+13  4.68.63.150 (4.68.63.150)  8.237 ms  8.432 ms  8.342 ms
+14  xe0-1-2.santiago1.san.seabone.net (195.22.221.89)  223.659 ms  223.643 ms xe0-1-3.santiago1.san.seabone.net (195.22.221.91)  215.928 ms
+15  200.123.197.34 (200.123.197.34)  232.969 ms  228.174 ms  222.589 ms
+16  customer.tigerbackbone.com (37.252.251.19)  222.453 ms  222.437 ms  220.324 ms
+
+
+Tue  2 May 09:00:07 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.086 ms  1.493 ms  1.891 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.496 ms  0.485 ms  0.473 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.087 ms  1.059 ms  1.045 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.218 ms  1.346 ms  1.444 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.194 ms  1.289 ms  1.387 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.188 ms  4.622 ms  4.225 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.587 ms  4.570 ms  4.556 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.520 ms  7.558 ms  7.544 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.397 ms  8.125 ms  7.565 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.638 ms  7.587 ms  7.686 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.793 ms  7.807 ms  7.812 ms
+12  ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  8.356 ms ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  8.343 ms ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  7.719 ms
+13  4.68.63.150 (4.68.63.150)  8.772 ms  8.517 ms  8.139 ms
+14  xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  211.775 ms xe0-1-3.santiago1.san.seabone.net (195.22.221.91)  208.396 ms xe0-1-2.santiago1.san.seabone.net (195.22.221.89)  217.446 ms
+15  200.123.197.34 (200.123.197.34)  217.532 ms  217.521 ms  222.414 ms
+16  customer.tigerbackbone.com (37.252.251.19)  216.834 ms  216.765 ms *
+
+
+Tue  2 May 14:00:15 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.083 ms  1.470 ms  1.848 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.460 ms  0.439 ms  0.953 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.031 ms  1.018 ms  0.995 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.304 ms  1.387 ms  1.105 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.054 ms  1.139 ms  1.241 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.096 ms  4.291 ms  4.274 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.369 ms  4.358 ms  4.341 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.551 ms  7.535 ms  7.632 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.605 ms  7.431 ms  7.548 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.497 ms  7.587 ms  7.541 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  7.823 ms  7.716 ms  8.041 ms
+12  ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  7.770 ms ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  7.999 ms ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  7.772 ms
+13  4.68.63.150 (4.68.63.150)  7.975 ms  8.320 ms  8.108 ms
+14  xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  211.262 ms xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  215.631 ms xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  214.398 ms
+15  200.123.197.34 (200.123.197.34)  216.234 ms  216.219 ms  226.573 ms
+16  customer.tigerbackbone.com (37.252.251.19)  217.374 ms  216.300 ms *
+
+
+Tue  2 May 15:00:12 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.099 ms  1.519 ms  1.866 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.521 ms  0.507 ms  0.490 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.278 ms  1.211 ms  1.233 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.214 ms  1.412 ms  1.313 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.166 ms  1.357 ms  1.418 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.492 ms  4.525 ms  4.512 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.503 ms  4.488 ms  4.591 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.773 ms  7.548 ms  7.880 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.929 ms  7.714 ms  7.705 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.028 ms  7.877 ms  7.959 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.531 ms  8.472 ms  9.241 ms
+12  ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  9.221 ms ae-117-3503.edge3.London1.Level3.net (4.69.166.138)  9.206 ms ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  7.967 ms
+13  4.68.63.150 (4.68.63.150)  51.949 ms  9.171 ms  9.160 ms
+14  xe0-1-2.santiago1.san.seabone.net (195.22.221.89)  212.584 ms xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  211.895 ms xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  212.807 ms
+15  200.123.197.34 (200.123.197.34)  217.595 ms  222.444 ms  226.988 ms
+16  customer.tigerbackbone.com (37.252.251.19)  222.758 ms  217.104 ms  217.079 ms
+
+
+Tue  2 May 20:00:12 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.054 ms  1.526 ms  1.981 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.576 ms  0.564 ms  0.556 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.096 ms  1.084 ms  1.062 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.547 ms  1.369 ms  1.227 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.208 ms  1.315 ms  1.446 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.506 ms  4.475 ms  4.197 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  7.027 ms  7.005 ms  6.985 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.561 ms  7.682 ms  7.733 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.827 ms  7.811 ms  7.804 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.939 ms  7.922 ms  7.897 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.509 ms  8.248 ms  8.139 ms
+12  ae-116-3502.edge3.London1.Level3.net (4.69.166.134)  12.212 ms ae-115-3501.edge3.London1.Level3.net (4.69.166.130)  8.101 ms ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  12.189 ms
+13  4.68.63.150 (4.68.63.150)  8.278 ms  8.261 ms  8.246 ms
+14  xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  214.596 ms xe0-1-2.santiago1.san.seabone.net (195.22.221.89)  221.259 ms xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  212.415 ms
+15  200.123.197.34 (200.123.197.34)  217.805 ms  217.811 ms  223.046 ms
+16  customer.tigerbackbone.com (37.252.251.19)  221.242 ms  221.222 ms  223.000 ms
+
+
+Tue  2 May 21:00:17 BST 2017
+traceroute to 37.252.251.19 (37.252.251.19), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.841 ms  2.098 ms  2.068 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  20.271 ms  21.330 ms  21.315 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.934 ms  1.901 ms  1.883 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.848 ms  1.836 ms  1.812 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.782 ms  1.727 ms  1.700 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.165 ms  4.366 ms  4.337 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.348 ms  5.415 ms  5.396 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.458 ms  8.443 ms  8.430 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  36.083 ms  36.073 ms  7.477 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.987 ms  7.443 ms  7.788 ms
+11  lag-108.ear1.London15.Level3.net (212.187.173.53)  8.935 ms  8.624 ms  8.087 ms
+12  ae-118-3504.edge3.London1.Level3.net (4.69.166.142)  11.720 ms  11.235 ms ae-115-3501.edge3.London1.Level3.net (4.69.166.130)  8.047 ms
+13  4.68.63.150 (4.68.63.150)  8.251 ms  8.157 ms  8.219 ms
+14  xe0-3-2.santiago1.san.seabone.net (195.22.221.199)  211.035 ms xe0-1-3.santiago1.san.seabone.net (195.22.221.91)  211.952 ms xe0-3-3.santiago1.san.seabone.net (195.22.221.203)  212.344 ms
+15  200.123.197.34 (200.123.197.34)  218.236 ms  220.590 ms  217.868 ms
+16  customer.tigerbackbone.com (37.252.251.19)  219.985 ms  218.527 ms  222.876 ms
+
+
