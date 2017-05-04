@@ -694,3 +694,27 @@ Wed  3 May 00:10:10 BST 2017
 rtt min/avg/max/mdev = 276.980/277.687/278.759/0.852 ms
 
 
+Wed  3 May 06:10:08 BST 2017
+--- kcbbs.gen.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99123ms
+rtt min/avg/max/mdev = 275.949/276.982/278.362/0.773 ms
+
+
+Wed  3 May 12:10:06 BST 2017
+--- kcbbs.gen.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99761ms
+rtt min/avg/max/mdev = 275.212/279.145/293.269/2.085 ms
+
+
+Wed  3 May 18:10:05 BST 2017
+--- kcbbs.gen.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99610ms
+rtt min/avg/max/mdev = 278.424/279.935/282.470/1.082 ms
+
+
+Thu  4 May 00:10:08 BST 2017
+--- kcbbs.gen.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99138ms
+rtt min/avg/max/mdev = 263.184/274.280/277.986/5.094 ms
+
+

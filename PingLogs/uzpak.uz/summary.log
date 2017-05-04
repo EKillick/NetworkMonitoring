@@ -694,3 +694,27 @@ Wed  3 May 00:18:32 BST 2017
 rtt min/avg/max/mdev = 119.760/121.100/211.870/9.138 ms
 
 
+Wed  3 May 06:18:28 BST 2017
+--- uzpak.uz ping statistics ---
+100 packets transmitted, 99 received, 1% packet loss, time 99130ms
+rtt min/avg/max/mdev = 119.306/119.560/120.071/0.242 ms
+
+
+Wed  3 May 12:18:28 BST 2017
+--- uzpak.uz ping statistics ---
+100 packets transmitted, 99 received, 1% packet loss, time 99180ms
+rtt min/avg/max/mdev = 119.998/120.532/121.953/0.464 ms
+
+
+Wed  3 May 18:18:28 BST 2017
+--- uzpak.uz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99148ms
+rtt min/avg/max/mdev = 41.352/110.633/229.340/30.552 ms
+
+
+Thu  4 May 00:18:30 BST 2017
+--- uzpak.uz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99118ms
+rtt min/avg/max/mdev = 119.202/119.389/119.916/0.373 ms
+
+
