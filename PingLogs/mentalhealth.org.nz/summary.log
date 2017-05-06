@@ -178,3 +178,18 @@ Fri  5 May 00:13:26 BST 2017
 rtt min/avg/max/mdev = 265.590/268.262/303.488/3.695 ms
 
 
+Fri  5 May 06:13:21 BST 2017
+--- mentalhealth.org.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 99882ms
+rtt min/avg/max/mdev = 265.565/273.407/279.615/3.842 ms
+
+
+Fri  5 May 12:13:28 BST 2017
+--- mentalhealth.org.nz ping statistics ---
+100 packets transmitted, 100 received, 0% packet loss, time 100053ms
+rtt min/avg/max/mdev = 269.636/271.346/276.865/1.326 ms
+
+
+Fri  5 May 20:13:37 BST 2017
+
+
