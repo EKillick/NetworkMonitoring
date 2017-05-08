@@ -6402,3 +6402,235 @@ traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
 25  virtual.45ru.net.au (203.30.44.22)  323.326 ms  322.622 ms  325.977 ms
 
 
+Sun  7 May 02:01:27 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.069 ms  1.486 ms  1.904 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.447 ms  0.801 ms  0.789 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.131 ms  1.071 ms  1.104 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.905 ms  1.785 ms  1.996 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.365 ms  1.489 ms  1.220 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.276 ms  4.240 ms  4.227 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.317 ms  5.357 ms  4.227 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.681 ms  8.689 ms  8.677 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.462 ms  8.721 ms  8.523 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.749 ms  8.796 ms  8.777 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  9.055 ms  8.094 ms  9.746 ms
+12  ldn-bb3-link.telia.net (80.91.247.91)  7.985 ms ldn-bb3-link.telia.net (213.155.132.194)  7.968 ms ldn-bb2-link.telia.net (213.155.132.196)  7.682 ms
+13  nyk-bb4-link.telia.net (213.155.135.71)  84.631 ms ash-bb4-link.telia.net (62.115.124.146)  82.454 ms nyk-bb4-link.telia.net (62.115.135.110)  83.395 ms
+14  sjo-b21-link.telia.net (62.115.138.49)  154.443 ms sjo-b21-link.telia.net (80.91.253.68)  157.885 ms sjo-b21-link.telia.net (80.91.245.71)  157.798 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  155.469 ms  155.695 ms  156.233 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  365.298 ms  364.700 ms  364.047 ms
+17  ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  362.647 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  365.218 ms  366.890 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  357.674 ms  360.106 ms  361.294 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  366.094 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  360.322 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  367.919 ms
+20  ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  359.634 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  362.340 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  367.003 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  358.352 ms  359.145 ms  362.417 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  405.870 ms  405.773 ms  234.463 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  357.838 ms  359.561 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  365.498 ms
+24  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  360.089 ms  362.149 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  359.850 ms
+25  * virtual.45ru.net.au (203.30.44.22)  354.840 ms  352.400 ms
+
+
+Sun  7 May 03:00:51 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  4.776 ms  5.218 ms  5.630 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.348 ms  0.440 ms  0.416 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.987 ms  0.960 ms  0.946 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.134 ms  1.271 ms  1.376 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.123 ms  1.183 ms  1.254 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.332 ms  4.295 ms  4.278 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.278 ms  4.711 ms  4.702 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.933 ms  7.877 ms  7.905 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.853 ms  7.744 ms  7.791 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.720 ms  7.685 ms  7.668 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.653 ms  7.645 ms  7.633 ms
+12  ldn-bb2-link.telia.net (80.91.246.114)  31.184 ms ldn-bb3-link.telia.net (80.91.246.96)  7.794 ms  7.961 ms
+13  nyk-bb4-link.telia.net (62.115.124.166)  86.050 ms ash-bb4-link.telia.net (80.91.252.103)  83.825 ms ash-bb4-link.telia.net (62.115.141.92)  82.071 ms
+14  sjo-b21-link.telia.net (62.115.138.51)  157.325 ms ash-bb4-link.telia.net (62.115.137.108)  82.866 ms ash-bb3-link.telia.net (62.115.141.244)  87.112 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  159.110 ms  159.042 ms sjo-b21-link.telia.net (62.115.138.53)  159.088 ms
+16  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  157.222 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  371.352 ms  367.442 ms
+17  ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  366.209 ms  368.112 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  373.876 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  363.254 ms  362.160 ms  361.978 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  368.272 ms  368.225 ms  369.872 ms
+20  ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  362.307 ms  361.147 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  369.510 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  361.542 ms  362.239 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  365.293 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  369.130 ms  367.040 ms ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  366.548 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  360.662 ms  358.773 ms  358.653 ms
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  357.765 ms  351.813 ms  356.200 ms
+25  virtual.45ru.net.au (203.30.44.22)  356.063 ms  352.573 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  357.727 ms
+
+
+Sun  7 May 08:01:05 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.095 ms  1.398 ms  1.822 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.379 ms  1.009 ms  0.996 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.031 ms  0.973 ms  0.957 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.442 ms  1.286 ms  1.123 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.487 ms  1.089 ms  1.549 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.717 ms  4.251 ms  4.219 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.282 ms  4.300 ms  4.263 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.509 ms  7.693 ms  7.637 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.618 ms  7.607 ms  7.584 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.576 ms  7.550 ms  7.539 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.600 ms  7.650 ms  7.626 ms
+12  ldn-bb2-link.telia.net (80.91.246.146)  7.953 ms ldn-bb2-link.telia.net (213.155.132.196)  7.942 ms ldn-bb3-link.telia.net (80.91.247.91)  7.931 ms
+13  ash-bb4-link.telia.net (62.115.141.94)  80.330 ms ash-bb3-link.telia.net (62.115.141.84)  85.566 ms ash-bb3-link.telia.net (62.115.124.126)  85.636 ms
+14  sjo-b21-link.telia.net (80.91.245.71)  153.700 ms  154.071 ms ash-bb3-link.telia.net (62.115.141.244)  95.062 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  155.313 ms  168.793 ms  155.241 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  366.478 ms  363.041 ms  363.486 ms
+17  ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  363.329 ms ten-0-1-0-5.cor01.syd04.nsw.vocus.net.au (114.31.199.84)  364.655 ms  362.551 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  357.229 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  367.113 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  357.908 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  366.896 ms  363.955 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  359.562 ms
+20  ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  355.644 ms  358.830 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  362.064 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  360.296 ms  363.605 ms  356.763 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  365.247 ms ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  362.291 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  361.744 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  354.115 ms  380.913 ms  377.640 ms
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  352.992 ms c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  377.776 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  354.849 ms
+25  virtual.45ru.net.au (203.30.44.22)  353.099 ms  348.612 ms  349.697 ms
+
+
+Sun  7 May 09:01:10 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.062 ms  2.330 ms  2.368 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  2.241 ms  2.225 ms  2.210 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.073 ms  2.038 ms  2.033 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.039 ms  2.056 ms  2.023 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.931 ms  1.953 ms  1.905 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.286 ms  4.441 ms  4.426 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.868 ms  4.848 ms  4.835 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.399 ms  8.388 ms  8.364 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.563 ms  11.097 ms  8.259 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.250 ms  8.230 ms  8.049 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.028 ms  8.011 ms  7.814 ms
+12  ldn-bb3-link.telia.net (80.91.248.217)  9.890 ms  9.871 ms ldn-bb3-link.telia.net (80.91.246.96)  9.860 ms
+13  ash-bb4-link.telia.net (62.115.116.66)  81.884 ms ash-bb3-link.telia.net (62.115.124.126)  86.133 ms ash-bb4-link.telia.net (62.115.116.68)  81.076 ms
+14  sjo-b21-link.telia.net (62.115.138.47)  156.164 ms sjo-b21-link.telia.net (213.155.130.211)  156.499 ms sjo-b21-link.telia.net (80.91.248.188)  155.399 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  156.208 ms  154.894 ms  156.416 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  367.026 ms  365.244 ms  365.122 ms
+17  ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  365.926 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  368.097 ms ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  367.241 ms
+18  ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  365.918 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  360.330 ms  362.336 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  365.249 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  361.178 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  368.757 ms
+20  ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  366.004 ms  364.552 ms ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  362.743 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  358.858 ms  358.516 ms  360.087 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  368.493 ms  362.791 ms  364.477 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  358.568 ms  356.445 ms  359.743 ms
+24  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  358.651 ms  358.843 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  352.064 ms
+25  virtual.45ru.net.au (203.30.44.22)  352.017 ms  351.783 ms  350.456 ms
+
+
+Sun  7 May 14:01:15 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.122 ms  1.598 ms  1.961 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.429 ms  0.851 ms  0.838 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.331 ms  1.314 ms  1.303 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.474 ms  1.462 ms  1.531 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.435 ms  1.501 ms  1.395 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.357 ms  4.814 ms  4.528 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.790 ms  4.772 ms  4.760 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.034 ms  7.929 ms  8.046 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.102 ms  8.150 ms  8.139 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  8.040 ms  7.913 ms  8.195 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  8.566 ms  7.851 ms  7.895 ms
+12  ldn-bb3-link.telia.net (213.155.136.74)  8.325 ms ldn-bb3-link.telia.net (80.91.248.217)  7.989 ms ldn-bb2-link.telia.net (213.155.132.196)  75.290 ms
+13  nyk-bb3-link.telia.net (80.91.248.203)  80.700 ms nyk-bb3-link.telia.net (62.115.124.122)  81.259 ms ash-bb4-link.telia.net (62.115.124.140)  83.018 ms
+14  sjo-b21-link.telia.net (80.91.253.68)  160.681 ms ash-bb3-link.telia.net (62.115.137.88)  88.746 ms  88.594 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  159.633 ms  160.954 ms  159.049 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  372.668 ms vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  159.305 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  373.174 ms
+17  ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  377.575 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  374.455 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  375.291 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  368.148 ms  370.139 ms  367.891 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  373.902 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  368.811 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  372.659 ms
+20  ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  371.382 ms ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  366.874 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  369.356 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  368.804 ms  367.104 ms  366.393 ms
+22  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  367.896 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  367.607 ms  368.846 ms
+23  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  368.982 ms c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  362.926 ms *
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  359.140 ms  359.427 ms  359.557 ms
+25  virtual.45ru.net.au (203.30.44.22)  355.397 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  357.393 ms virtual.45ru.net.au (203.30.44.22)  355.857 ms
+
+
+Sun  7 May 15:01:06 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.246 ms  1.552 ms  1.942 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.260 ms  0.382 ms  0.368 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.104 ms  1.074 ms  1.058 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.443 ms  1.289 ms  1.480 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.333 ms  1.070 ms  1.161 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.264 ms  4.637 ms  4.434 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.605 ms  4.589 ms  4.590 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.917 ms  7.718 ms  7.703 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.693 ms  7.631 ms  7.624 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.582 ms  7.792 ms  7.740 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.504 ms  7.483 ms  7.671 ms
+12  ldn-bb3-link.telia.net (213.155.136.74)  9.062 ms ldn-bb3-link.telia.net (213.155.132.194)  9.046 ms ldn-bb3-link.telia.net (80.91.246.96)  9.034 ms
+13  ash-bb4-link.telia.net (80.91.251.207)  81.225 ms ash-bb3-link.telia.net (62.115.124.128)  84.727 ms ash-bb3-link.telia.net (62.115.124.126)  84.762 ms
+14  sjo-b21-link.telia.net (62.115.138.51)  153.846 ms sjo-b21-link.telia.net (80.91.248.204)  156.790 ms ash-bb3-link.telia.net (62.115.137.88)  85.011 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  155.370 ms  151.884 ms sjo-b21-link.telia.net (62.115.138.15)  154.111 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  362.245 ms  360.335 ms  358.738 ms
+17  ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  362.770 ms ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  359.216 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  360.569 ms
+18  ten-0-1-0-5.cor01.syd04.nsw.vocus.net.au (114.31.199.84)  358.219 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  353.982 ms  353.901 ms
+19  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  354.328 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  358.457 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  355.049 ms
+20  ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  353.293 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  356.974 ms  359.039 ms
+21  ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  357.053 ms ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  352.766 ms  352.774 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  361.117 ms ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  354.236 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  356.259 ms
+23  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  357.441 ms c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  438.459 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  359.232 ms
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  347.619 ms  344.458 ms c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  433.923 ms
+25  * virtual.45ru.net.au (203.30.44.22)  347.414 ms *
+
+
+Sun  7 May 20:01:09 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.763 ms  1.748 ms  2.006 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.409 ms  0.394 ms  1.659 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.648 ms  1.628 ms  1.611 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.608 ms  1.591 ms  1.562 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.537 ms  1.512 ms  1.494 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.316 ms  4.406 ms  4.388 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.928 ms  4.864 ms  4.901 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.875 ms  7.806 ms  7.844 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  11.248 ms  7.666 ms  11.219 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.691 ms  7.724 ms  7.708 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.745 ms  7.673 ms  7.904 ms
+12  ldn-bb3-link.telia.net (213.155.136.74)  43.898 ms ldn-bb3-link.telia.net (80.91.248.217)  7.811 ms ldn-bb2-link.telia.net (213.155.132.196)  56.694 ms
+13  ash-bb4-link.telia.net (213.248.65.210)  82.863 ms ash-bb4-link.telia.net (62.115.124.146)  83.169 ms ash-bb4-link.telia.net (213.248.65.210)  82.823 ms
+14  sjo-b21-link.telia.net (213.155.130.213)  157.170 ms ash-bb4-link.telia.net (62.115.136.201)  83.702 ms ash-bb3-link.telia.net (62.115.141.244)  87.034 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  155.207 ms  158.790 ms  157.226 ms
+16  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  156.871 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  368.033 ms  366.875 ms
+17  ten-0-1-0-5.cor01.syd04.nsw.vocus.net.au (114.31.199.84)  366.328 ms ten-0-2-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.28)  365.795 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  371.510 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  361.957 ms  362.397 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  369.864 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  364.516 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  362.010 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  363.731 ms
+20  ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  364.073 ms bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  365.344 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  367.789 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  359.632 ms  361.641 ms  364.571 ms
+22  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  249.155 ms s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  257.512 ms ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  251.978 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  246.902 ms  246.112 ms  246.010 ms
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  245.202 ms  239.054 ms  242.114 ms
+25  virtual.45ru.net.au (203.30.44.22)  242.888 ms  240.958 ms  240.553 ms
+
+
+Sun  7 May 21:01:03 BST 2017
+traceroute to waggagolf.com.au (203.30.44.22), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.973 ms  1.377 ms  1.813 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.298 ms  0.435 ms  0.418 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.119 ms  1.111 ms  1.098 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.119 ms  1.215 ms  1.325 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.213 ms  1.541 ms  1.484 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.754 ms  4.395 ms  4.383 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.371 ms  4.501 ms  4.763 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.818 ms  7.759 ms  7.787 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.775 ms  7.839 ms  7.750 ms
+10  ae0.londtn-ban2.ja.net (146.97.35.194)  7.738 ms  7.794 ms  7.785 ms
+11  ldn-b5-link.telia.net (62.115.148.160)  7.768 ms  7.703 ms  7.690 ms
+12  ldn-bb3-link.telia.net (80.91.247.91)  7.809 ms ldn-bb3-link.telia.net (80.91.248.217)  7.794 ms ldn-bb2-link.telia.net (80.91.246.146)  7.966 ms
+13  nyk-bb4-link.telia.net (62.115.124.166)  86.381 ms ash-bb3-link.telia.net (62.115.141.84)  87.242 ms ash-bb3-link.telia.net (80.91.246.68)  85.305 ms
+14  sjo-b21-link.telia.net (80.91.252.46)  164.364 ms ash-bb3-link.telia.net (62.115.141.244)  87.976 ms sjo-b21-link.telia.net (80.91.248.204)  161.598 ms
+15  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  158.139 ms sjo-b21-link.telia.net (62.115.138.51)  159.741 ms sjo-b21-link.telia.net (80.91.252.46)  163.886 ms
+16  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  370.011 ms  370.555 ms  373.632 ms
+17  ten-0-1-0-5.cor01.syd04.nsw.vocus.net.au (114.31.199.84)  371.635 ms  369.679 ms ten-0-7-0-3.cor01.syd04.nsw.vocus.net.au (114.31.199.47)  371.973 ms
+18  bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  365.833 ms  365.720 ms  365.511 ms
+19  bundle-102.cor01.per02.wa.vocus.net.au (114.31.206.129)  370.970 ms  370.208 ms bundle-106.cor03.syd03.nsw.vocus.net.au (175.45.72.121)  365.455 ms
+20  ten-2-0-0.bdr01.per05.wa.VOCUS.net.au (114.31.206.41)  366.287 ms ten-2-0-1.bdr01.per05.wa.VOCUS.net.au (114.31.206.43)  370.129 ms  368.485 ms
+21  ip-146.161.255.49.in-addr.VOCUS.net.au (49.255.161.146)  365.618 ms  369.215 ms  365.999 ms
+22  s-br1-prth-1.pr1.prth.nxg.net.au (150.207.243.9)  374.142 ms  373.332 ms  373.168 ms
+23  c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  626.954 ms  623.746 ms  525.817 ms
+24  vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  357.514 ms c-20893-4277-VAIES-809-279.cust.nxg.net.au (203.161.12.98)  462.207 ms vl10-gi3-8.cr01.45ru.net.au (203.30.44.185)  357.244 ms
+25  virtual.45ru.net.au (203.30.44.22)  360.219 ms  357.354 ms  359.936 ms
+
+
